@@ -1,0 +1,26 @@
+Cluster,Rank,SMILES,PubChem Name,Distance
+Cluster_1,Centroid,CCCCCC\C=C/C=O,(Z)-non-2-enal,4.35186592280584
+Cluster_1,Top_1,CCCCCC\C=C\C=O,(E)-non-2-enal,4.3782750783002164
+Cluster_1,Top_2,CCCCC\C=C/C=O,(Z)-oct-2-enal,5.007216266625982
+Cluster_1,Top_3,CCCC=CCCCCC=O,dec-6-enal,5.977396011617888
+Cluster_1,Top_4,CCC=CCC=CCC=O,"nona-3,6-dienal",6.146075363078887
+Cluster_2,Centroid,CCC(=O)O,propanoic acid,9.030414514788369
+Cluster_2,Top_1,CCCC(=O)O,butanoic acid,9.152306946425435
+Cluster_2,Top_2,CCOC(C)=O,ethyl acetate,10.437192521309395
+Cluster_2,Top_3,CC(O)C(C)=O,3-hydroxybutan-2-one,10.438947073272073
+Cluster_2,Top_4,CC(C)C(O)=O,2-methylpropanoic acid,10.744231458043082
+Cluster_3,Centroid,CCCCCC(=O)OCC,ethyl hexanoate,8.160698212357127
+Cluster_3,Top_1,CCCCC(=O)OCC,ethyl pentanoate,8.589652488660494
+Cluster_3,Top_2,CCCCCOC(=O)CC,pentyl propanoate,9.028353674813872
+Cluster_3,Top_3,CCCCCCOC(=O)C,hexyl acetate,9.523788689114099
+Cluster_3,Top_4,CCCCOC(C)=O,butyl acetate,10.210295122947224
+Cluster_4,Centroid,CCC(C)C=O,2-methylbutanal,8.51006419695592
+Cluster_4,Top_1,CCC(C)CO,2-methylbutan-1-ol,8.744481654611851
+Cluster_4,Top_2,CC(C)CCO,3-methylbutan-1-ol,8.871315824857572
+Cluster_4,Top_3,CC\C=C/CCO,(Z)-hex-3-en-1-ol,9.659802139146086
+Cluster_4,Top_4,CCCCCO,pentan-1-ol,10.22920482412268
+Cluster_5,Centroid,CCCSSCCC,1-(propyldisulfanyl)propane,11.6951100835324
+Cluster_5,Top_1,CSCSC,bis(methylsulfanyl)methane,13.360470524436115
+Cluster_5,Top_2,CSSSC,(methyltrisulfanyl)methane,13.393004987665156
+Cluster_5,Top_3,CSSC,(methyldisulfanyl)methane,13.788958925124687
+Cluster_5,Top_4,CCCSSSC,1-(methyltrisulfanyl)propane,14.717197186256417

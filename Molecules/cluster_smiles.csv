@@ -1,0 +1,21 @@
+Cluster,Centroid_SMILES,Molecule,SMILES
+Cluster 1,CCCCCC\C=C\C=O,Molecule 1,CCCCCC\C=C\C=O
+Cluster 1,CCCCCC\C=C\C=O,Molecule 2,CCCCCC\C=C/C=O
+Cluster 1,CCCCCC\C=C\C=O,Molecule 3,CCCCC\C=C/C=O
+Cluster 1,CCCCCC\C=C\C=O,Molecule 4,CCC=CCC=CCC=O
+Cluster 2,CCC(=O)O,Molecule 1,CCC(=O)O
+Cluster 2,CCC(=O)O,Molecule 2,CCCC(=O)O
+Cluster 2,CCC(=O)O,Molecule 3,CC(C)C(O)=O
+Cluster 2,CCC(=O)O,Molecule 4,CCC(C)C(=O)O
+Cluster 3,CCCCCC(=O)OCC,Molecule 1,CCCCCC(=O)OCC
+Cluster 3,CCCCCC(=O)OCC,Molecule 2,CCCCC(=O)OCC
+Cluster 3,CCCCCC(=O)OCC,Molecule 3,CCCCCOC(=O)CC
+Cluster 3,CCCCCC(=O)OCC,Molecule 4,CCCCCCOC(=O)C
+Cluster 4,CCC(C)CO,Molecule 1,CCC(C)CO
+Cluster 4,CCC(C)CO,Molecule 2,CC(C)CCO
+Cluster 4,CCC(C)CO,Molecule 3,CCC(C)C=O
+Cluster 4,CCC(C)CO,Molecule 4,CC\C=C/CCO
+Cluster 5,CCCSSCCC,Molecule 1,CCCSSCCC
+Cluster 5,CCCSSCCC,Molecule 2,CSCSC
+Cluster 5,CCCSSCCC,Molecule 3,CSSSC
+Cluster 5,CCCSSCCC,Molecule 4,CSSC
