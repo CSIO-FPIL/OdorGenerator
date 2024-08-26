@@ -1,0 +1,22 @@
+              _             
+             (_)            
+   __ _ _ __  _ _ __   __ _ 
+  / _` | '_ \| | '_ \ / _` |
+ | (_| | | | | | | | | (_| |
+  \__, |_| |_|_|_| |_|\__,_|
+   __/ |                    
+  |___/                     
+
+gnina  master:33846ee   Built Jul 19 2023.
+gnina is based on smina and AutoDock Vina.
+Please cite appropriately.
+
+Commandline: gnina --receptor OR51G2_hyb.pdb --ligand /home/rishemjit/Desktop/Git_workspace/gnina/Docking_results_UPDATED/OR51G2/top_hits_OR51G2/2_Methyl_2_propanol_out_model11.pdb --score_only
+## Name gauss(o=0,_w=0.5,_c=8) gauss(o=3,_w=2,_c=8) repulsion(o=0,_c=8) hydrophobic(g=0.5,_b=1.5,_c=8) non_dir_h_bond(g=-0.7,_b=0,_c=8) num_tors_div
+Affinity: -3.70222 (kcal/mol)
+CNNscore: 0.47708 
+CNNaffinity: 2.93536
+CNNvariance: 0.43541
+Intramolecular energy: -0.03515
+Term values, before weighting:
+##  32.31258 341.32578 0.81386 22.06733 1.93301 0.00000
