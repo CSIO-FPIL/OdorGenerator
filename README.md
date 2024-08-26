@@ -1,6 +1,7 @@
 # Odor Analysis
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 This repo contains the code for molecular analysis of possible odorants for OR51-like receptors. 
+Data for MD Simulations can be found here : https://zenodo.org/records/13376823
 
 1) We obtained a list of 62 known odorants to 3 OR51-like receptors, namely OR51E1, OR51E2, and OR51D1.
 2) Using computational methods, it can be predicted if any of these molecules would have an affinity to other OR51-like receptors, 
