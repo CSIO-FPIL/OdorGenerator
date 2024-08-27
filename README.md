@@ -11,5 +11,6 @@ This repo contains the code for molecular analysis of possible odorants for OR51
    then performed PCA Analysis and KNN on the dataset.
 4) AIC (Akaike Information Criterion) and BIC( Bayesian Information Criterion) measures were
    taken to select the best nClusters and the centroids of the clusters.
-5) Finally, we take 6 most relevant descriptors, according to ADMET properties of drugs and odorants, and plot them against each other for a Co-relational Analysis.
+5) Finally, we take 20 most relevant descriptors, according to ADMET properties of drugs and odorants, and plot them against each other for a Co-relational Analysis.
 
+![PIPELINE](https://github.com/user-attachments/assets/053bafac-6ff7-4bca-a4d2-ebe12e99189e)
