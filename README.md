@@ -13,4 +13,4 @@ This repo contains the code for molecular analysis of possible odorants for OR51
    taken to select the best nClusters and the centroids of the clusters.
 5) Finally, we take 20 most relevant descriptors, according to ADMET properties of drugs and odorants, and plot them against each other for a Co-relational Analysis.
 
-![PIPELINE](https://github.com/user-attachments/assets/053bafac-6ff7-4bca-a4d2-ebe12e99189e)
+![PIPELINE (1)](https://github.com/user-attachments/assets/691114d2-00b6-4456-bdeb-9be866c9c1b2)
