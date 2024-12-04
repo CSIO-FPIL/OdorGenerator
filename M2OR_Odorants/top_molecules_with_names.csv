@@ -1,0 +1,49 @@
+Cluster,Rank,SMILES,Distance,name
+Cluster_1,Centroid,CCCCCC(=O)CC,7.428014497216388,octan-3-one
+Cluster_1,Top_1,CCCCCC(=O)C,7.678424526103379,heptan-2-one
+Cluster_1,Top_2,CCCCC(=O)CC,7.915530749719323,heptan-3-one
+Cluster_1,Top_3,CCCCC(=O)C,8.021337921334318,hexan-2-one
+Cluster_1,Top_4,CCCCCCC(=O)C,8.028801046536367,octan-2-one
+Cluster_1,Top_5,CCCCCC=O,8.549494290959776,hexanal
+Cluster_1,Top_6,CCCCCC(=O)O,9.044414186557882,hexanoic acid
+Cluster_1,Top_7,CCCCCCCC(=O)C,9.060665139237766,nonan-2-one
+Cluster_1,Top_8,CCCCCCC=O,9.102573001942307,heptanal
+Cluster_1,Top_9,CCCCC(=O)O,9.44651992029781,pentanoic acid
+Cluster_1,Top_10,CC/C=C\CCO,9.530841241053569,Name not found
+Cluster_2,Centroid,CC(CNC(=O)N)C(=O)O,14.051022644669173,3-(carbamoylamino)-2-methylpropanoic acid
+Cluster_2,Top_1,C(CC(=O)O)C(=O)C(=O)O,14.59590405564313,2-oxopentanedioic acid
+Cluster_2,Top_2,C(C(C(=O)O)N)N,15.913600856453389,"2,3-diaminopropanoic acid"
+Cluster_2,Top_3,C[C@H](C(=O)N[C@H](C)C(=O)O)N,16.11438166714997,(2R)-2-[[(2R)-2-aminopropanoyl]amino]propanoic acid
+Cluster_2,Top_4,C([C@@H](C(=O)O)O)O,16.732022472292094,"(2S)-2,3-dihydroxypropanoic acid"
+Cluster_2,Top_5,C(CNC(=O)N)C(=O)O,17.746149870485016,3-(carbamoylamino)propanoic acid
+Cluster_2,Top_6,CC(=O)N[C@@H](CCC(=O)O)C(=O)O,18.851159772497432,(2S)-2-acetamidopentanedioic acid
+Cluster_2,Top_7,C(CCN=C(N)N)C[C@@H](C(=O)O)N,18.93424958863872,(2S)-2-amino-6-(diaminomethylideneamino)hexanoic acid
+Cluster_2,Top_8,C(C(=O)C(=O)O)O,19.23038584388492,3-hydroxy-2-oxopropanoic acid
+Cluster_2,Top_9,CN(C)C(=NCCC[C@@H](C(=O)O)N)N,27.87179627242719,(2S)-2-amino-5-[[amino(dimethylamino)methylidene]amino]pentanoic acid
+Cluster_2,Top_10,C(C(=O)O)C(CC(=O)O)(C(=O)O)O,30.325047828514705,"2-hydroxypropane-1,2,3-tricarboxylic acid"
+Cluster_3,Centroid,CC(=CCC/C(=C/CO)/C)C,10.443405478499956,Name not found
+Cluster_3,Top_1,C[C@@H](CCC=C(C)C)CCO,10.493920415601991,"(3S)-3,7-dimethyloct-6-en-1-ol"
+Cluster_3,Top_2,CC(=CCC/C(=C/C=O)/C)C,11.015679008642175,Name not found
+Cluster_3,Top_3,CCC/C(=C/C(=O)O)/C,13.892946212488104,Name not found
+Cluster_3,Top_4,CCCCCC(=O)C(C)C(=O)C,14.664264386044437,"3-methylnonane-2,4-dione"
+Cluster_3,Top_5,CC(=CCOC(=O)C)C,14.719858282499146,3-methylbut-2-enyl acetate
+Cluster_3,Top_6,CCCC(CCOC(=O)C)S,14.899156486640504,3-sulfanylhexyl acetate
+Cluster_3,Top_7,CC(=CCCC(C)(C=C)O)C,15.221772703580612,"3,7-dimethylocta-1,6-dien-3-ol"
+Cluster_3,Top_8,CC(=CCC/C(=C/COC(=O)C)/C)C,16.335388226633174,Name not found
+Cluster_3,Top_9,CCCC(C)(CC(=O)O)O,19.29717345190812,3-hydroxy-3-methylhexanoic acid
+Cluster_4,Centroid,CCC(=O)O,10.164904152991983,propanoic acid
+Cluster_4,Top_1,CC(=O)O,12.602770588380883,acetic acid
+Cluster_4,Top_2,C(C(=O)O)N,12.929114666897506,2-aminoacetic acid
+Cluster_4,Top_3,CC(=O)C(=O)C,20.09284194918738,"butane-2,3-dione"
+Cluster_4,Top_4,C(=O)(N)N,22.273643624854007,urea
+Cluster_5,Centroid,CCCCCCCCCC(=O)O,6.230641634370737,decanoic acid
+Cluster_5,Top_1,CCCCCCCCCCC(=O)O,6.348776681885624,undecanoic acid
+Cluster_5,Top_2,CCCCCCCCCCCC(=O)O,6.543476059014492,dodecanoic acid
+Cluster_5,Top_3,CCCCCCCCC(=O)O,7.156012033870107,nonanoic acid
+Cluster_5,Top_4,CCCCCCCCOC(=O)C,7.924848282815797,octyl acetate
+Cluster_5,Top_5,CCCCCCCCCCCCCC(=O)O,8.672469225451094,tetradecanoic acid
+Cluster_5,Top_6,CCCCCCCC(=O)O,8.847642940483638,octanoic acid
+Cluster_5,Top_7,CCCCCCCOC(=O)C,8.965028692477333,heptyl acetate
+Cluster_5,Top_8,CCCCCCOC(=O)CCC,9.108616051075838,hexyl butanoate
+Cluster_5,Top_9,CCCCCCC(=O)OCC=C,9.610466741086624,prop-2-enyl heptanoate
+Cluster_5,Top_10,CCCCCCCCCCC=O,9.762185541824788,undecanal

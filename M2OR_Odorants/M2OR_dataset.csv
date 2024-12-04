@@ -1,0 +1,753 @@
+Species,Olfactory Receptor,UniProt ID,Molecules,CID,CAS,SMILES,Responsive,Value,Unit,Concentration,Concentration Unit
+homo sapiens,OR51D1,Q8NGF3,n-amyl acetate,12348,628-63-7,CCCCCOC(=O)C,0,-0.1354006212,,100,uM
+homo sapiens,OR51D1,Q8NGF3,Cyclohexanone,7967,108-94-1,C1CCC(=O)CC1,0,-0.09959109045,,100,uM
+homo sapiens,OR51D1,Q8NGF3,2-heptanone,8051,110-43-0,CCCCCC(=O)C,0,0.06251670451,,100,uM
+homo sapiens,OR51D1,Q8NGF3,acetophenone,7410,98-86-2,CC(=O)C1=CC=CC=C1,0,0.0148320547,,100,uM
+homo sapiens,OR51D1,Q8NGF3,"2,4,5-trimethyl-2,5-dihydro-1,3-thiazole",181287,60633-24-1,CC1C(=NC(S1)C)C,0,-0.007461013215,,100,uM
+homo sapiens,OR51D1,Q8NGF3,(-)-menthol,16666,2216-51-5,C[C@@H]1CC[C@H]([C@@H](C1)O)C(C)C,0,0.006255090501,,100,uM
+homo sapiens,OR51D1,Q8NGF3,(+)-menthol,165675,15356-60-2,C[C@H]1CC[C@@H]([C@H](C1)O)C(C)C,0,-0.05588156403,,100,uM
+homo sapiens,OR51D1,Q8NGF3,1-butanol,263,71-36-3,CCCCO,0,-0.02818168255,,100,uM
+homo sapiens,OR51D1,Q8NGF3,2-butanone,6569,78-93-3,CCC(=O)C,0,-0.01193271404,,100,uM
+homo sapiens,OR51D1,Q8NGF3,2-decenal,5283345,3913-71-1,CCCCCCC/C=C/C=O,0,0.02452510949,,100,uM
+homo sapiens,OR51D1,Q8NGF3,2-ethylfenchol,106997,18368-91-7,CCC1(C(C2CCC1(C2)C)(C)C)O,0,-0.06103567015,,100,uM
+homo sapiens,OR51D1,Q8NGF3,2-methoxy-4-methylphenol,7144,93-51-6,CC1=CC(=C(C=C1)O)OC,0,-0.03818868786,,100,uM
+homo sapiens,OR51D1,Q8NGF3,4-methylvaleric acid,12587,0646-07-01,CC(C)CCC(=O)O,0,0.03035960197,,100,uM
+homo sapiens,OR51D1,Q8NGF3,androstenone,6852393,18339-16-7,C[C@]12CC[C@H]3[C@H]([C@@H]1CC=C2)CC[C@@H]4[C@@]3(CCC(=O)C4)C,1,0.8095367152,,100,uM
+homo sapiens,OR51D1,Q8NGF3,bourgeonal,64832,18127-01-0,CC(C)(C)C1=CC=C(C=C1)CCC=O,0,-0.1665849381,,100,uM
+homo sapiens,OR51D1,Q8NGF3,butyl acetate,31272,123-86-4,CCCCOC(=O)C,0,-0.03746915103,,100,uM
+homo sapiens,OR51D1,Q8NGF3,butyric acid,264,107-92-6,CCCC(=O)O,0,0.03523281668,,100,uM
+homo sapiens,OR51D1,Q8NGF3,caproic acid,8892,142-62-1,CCCCCC(=O)O,0,-0.02694730895,,100,uM
+homo sapiens,OR51D1,Q8NGF3,cineole,2758,470-82-6,CC1(C2CCC(O1)(CC2)C)C,0,-0.04851495504,,100,uM
+homo sapiens,OR51D1,Q8NGF3,cis-3-hexen-1-ol,5281167,928-96-1,CC/C=C\CCO,0,0.03335927761,,100,uM
+homo sapiens,OR51D1,Q8NGF3,citral,638011,5392-40-5,CC(=CCC/C(=C/C=O)/C)C,0,-0.03106191836,,100,uM
+homo sapiens,OR51D1,Q8NGF3,decyl aldehyde,8175,112-31-2,CCCCCCCCCC=O,0,0.01069269575,,100,uM
+homo sapiens,OR51D1,Q8NGF3,diacetyl,650,0431-03-08,CC(=O)C(=O)C,0,-0.0204013216,,100,uM
+homo sapiens,OR51D1,Q8NGF3,diallyl sulfide,11617,592-88-1,C=CCSCC=C,0,-0.03290771002,,100,uM
+homo sapiens,OR51D1,Q8NGF3,diphenyl ether,7583,101-84-8,C1=CC=C(C=C1)OC2=CC=CC=C2,0,-0.077428042,,100,uM
+homo sapiens,OR51D1,Q8NGF3,ethylene brassylate,61014,105-95-3,C1CCCCCC(=O)OCCOC(=O)CCCCC1,0,0.05731498789,,100,uM
+homo sapiens,OR51D1,Q8NGF3,eugenol acetate,7136,93-28-7,CC(=O)OC1=C(C=C(C=C1)CC=C)OC,0,0.08196193627,,100,uM
+homo sapiens,OR51D1,Q8NGF3,eugenol methyl ether,7127,93-15-2,COC1=C(C=C(C=C1)CC=C)OC,0,0.03407984892,,100,uM
+homo sapiens,OR51D1,Q8NGF3,(-)-Fenchone,82229,7787-20-4,C[C@@]12CC[C@@H](C1)C(C2=O)(C)C,0,-0.07427849499,,100,uM
+homo sapiens,OR51D1,Q8NGF3,galaxolide,91497,1222-05-05,CC1COCC2=CC3=C(C=C12)C(C(C3(C)C)C)(C)C,0,-0.5591498118,,100,uM
+homo sapiens,OR51D1,Q8NGF3,androstadienone,92979,4075-07-04,C[C@]12CC[C@H]3[C@H]([C@@H]1CC=C2)CCC4=CC(=O)CC[C@]34C,0,-0.4329662146,,100,uM
+homo sapiens,OR51D1,Q8NGF3,geranyl acetate,1549026,105-87-3,CC(=CCC/C(=C/COC(=O)C)/C)C,0,-0.4726131773,,100,uM
+homo sapiens,OR51D1,Q8NGF3,guaiacol,460,90-05-1,COC1=CC=CC=C1O,0,-0.3616202399,,100,uM
+homo sapiens,OR51D1,Q8NGF3,heptyl acetate,8159,0112-06-01,CCCCCCCOC(=O)C,0,0.01173037657,,100,uM
+homo sapiens,OR51D1,Q8NGF3,hexyl butyrate,17525,2639-63-6,CCCCCCOC(=O)CCC,0,-0.2936417984,,100,uM
+homo sapiens,OR51D1,Q8NGF3,isobornyl acetate,247573,0125-12-2,CC(=O)O[C@H]1C[C@H]2CC[C@]1(C2(C)C)C,0,-0.2824922044,,100,uM
+homo sapiens,OR51D1,Q8NGF3,isobutyraldehyde,6561,78-84-2,CC(C)C=O,0,-0.05573514792,,100,uM
+homo sapiens,OR51D1,Q8NGF3,isobutyric acid,6590,79-31-2,CC(C)C(=O)O,0,-0.233501428,,100,uM
+homo sapiens,OR51D1,Q8NGF3,isoeugenol,853433,97-54-1,C/C=C/C1=CC(=C(C=C1)O)OC,0,-0.2639383378,,100,uM
+homo sapiens,OR51D1,Q8NGF3,isovaleric acid,10430,503-74-2,CC(C)CC(=O)O,0,-0.007470992659,,100,uM
+homo sapiens,OR51D1,Q8NGF3,linalool,6549,78-70-6,CC(=CCCC(C)(C=C)O)C,0,-0.0556718689,,100,uM
+homo sapiens,OR51D1,Q8NGF3,methanethiol,878,74-93-1,CS,0,-0.08574217358,,100,uM
+homo sapiens,OR51D1,Q8NGF3,methyl salicylate,4133,119-36-8,COC(=O)C1=CC=CC=C1O,0,-0.112643649,,100,uM
+homo sapiens,OR51D1,Q8NGF3,octyl acetate,8164,112-14-1,CCCCCCCCOC(=O)C,0,-0.06965291075,,100,uM
+homo sapiens,OR51D1,Q8NGF3,octyl aldehyde,454,124-13-0,CCCCCCCC=O,0,0.009085901405,,100,uM
+homo sapiens,OR51D1,Q8NGF3,pentadecalactone,235414,0106-02-05,C1CCCCCCCOC(=O)CCCCCC1,0,-0.03015260278,,100,uM
+homo sapiens,OR51D1,Q8NGF3,phenyl acetaldehyde,998,122-78-1,C1=CC=C(C=C1)CC=O,0,-0.009087489016,,100,uM
+homo sapiens,OR51D1,Q8NGF3,pyrazine,9261,290-37-9,C1=CN=CC=N1,0,-0.01227314142,,100,uM
+homo sapiens,OR51D1,Q8NGF3,terpineol,17100,98-55-5,CC1=CCC(CC1)C(C)(C)O,0,-0.01174136023,,100,uM
+homo sapiens,OR51D1,Q8NGF3,terpinyl acetate,111037,80-26-2,CC1=CCC(CC1)C(C)(C)OC(=O)C,0,-0.01274856525,,100,uM
+homo sapiens,OR51D1,Q8NGF3,undecanal,8186,112-44-7,CCCCCCCCCCC=O,0,-0.02221026524,,100,uM
+homo sapiens,OR51D1,Q8NGF3,vanillin,1183,121-33-5,COC1=C(C=CC(=C1)C=O)O,0,-0.03820024659,,100,uM
+homo sapiens,OR51D1,Q8NGF3,methyl benzoate,7150,93-58-3,COC(=O)C1=CC=CC=C1,0,-0.04446378419,,100,uM
+homo sapiens,OR51D1,Q8NGF3,"2,4-DNT",8461,121-14-2,CC1=C(C=C(C=C1)[N+](=O)[O-])[N+](=O)[O-],0,-0.005557557752,,100,uM
+homo sapiens,OR51D1,Q8NGF3,butyric acid,264,107-92-6,CCCC(=O)O,0,0.65035,,0,uM
+homo sapiens,OR51D1,Q8NGF3,butyric acid,264,107-92-6,CCCC(=O)O,0,0.59415,,1,uM
+homo sapiens,OR51D1,Q8NGF3,butyric acid,264,107-92-6,CCCC(=O)O,0,0.6519166667,,10,uM
+homo sapiens,OR51D1,Q8NGF3,butyric acid,264,107-92-6,CCCC(=O)O,0,0.8045133333,,100,uM
+homo sapiens,OR51D1,Q8NGF3,butyric acid,264,107-92-6,CCCC(=O)O,1,-4.24421954,log(M),,uM
+homo sapiens,OR51D1,Q8NGF3,3-Mercaptohexyl acetate,518810,,CCCC(CCOC(=O)C)S,0,,,100,uM
+homo sapiens,OR51D1,Q8NGF3,Furaneol,19309,,CC1C(=O)C(=C(O1)C)O,0,,,1000,uM
+homo sapiens,OR51D1,Q8NGF3,Sotolone,62835,,CC1C(=C(C(=O)O1)O)C,0,,,1000,uM
+homo sapiens,OR51D1,Q8NGF3,homofuraneol,33931,,CCC1C(=O)C(=C(O1)C)O,0,,,1000,uM
+homo sapiens,OR51D1,Q8NGF3,Abhexone,61199,,CCC1C(=C(C(=O)O1)O)C,0,,,1000,uM
+homo sapiens,OR51D1,Q8NGF3,Allyl Phenyl acetate,15717,1746-13-0,C=CCOC(=O)CC1=CC=CC=C1,0,,,100,uM
+homo sapiens,OR51D1,Q8NGF3,"2,3,5-Trimethylpyrazine",26808,14667-55-1,CC1=CN=C(C(=N1)C)C,0,,,100,uM
+homo sapiens,OR51D1,Q8NGF3,"2,4,5-trimethyl-4,5-dihydrothiazole",263626,4145-93-1,CC1C(SC(=N1)C)C,0,,,100,uM
+homo sapiens,OR51D1,Q8NGF3,3-mercapto-2-methylpentan-1-ol,6430888,,CCC(C(C)CO)S,0,,,300,uM
+homo sapiens,OR51D1,Q8NGF3,2-methyl-3-sulfanylpropan-1-ol,529079,,CC(CO)CS,0,,,300,uM
+homo sapiens,OR51D1,Q8NGF3,2-Methyl-3-sulfanylheptan-1-ol,21997288,,CCCCC(C(C)CO)S,0,,,300,uM
+homo sapiens,OR51D1,Q8NGF3,3-Mercapto-2-methyloctan-1-ol,,,CCCCCC(C(C)CO)S,0,,,300,uM
+homo sapiens,OR51D1,Q8NGF3,(+/-)-Muscone,10947,541-91-3,CC1CCCCCCCCCCCCC(=O)C1,0,0,,100,uM
+homo sapiens,OR51D1,Q8NGF3,Musk xylol,62329,,CC1=C(C(=C(C(=C1[N+](=O)[O-])C(C)(C)C)[N+](=O)[O-])C)[N+](=O)[O-],0,0,,100,uM
+homo sapiens,OR51D1,Q8NGF3,musk ketone,6669,,CC1=C(C(=C(C(=C1[N+](=O)[O-])C(C)(C)C)[N+](=O)[O-])C)C(=O)C,0,0,,100,uM
+homo sapiens,OR51D1,Q8NGF3,Diacetyl,650,,CC(=O)C(=O)C,0,,,4,uM
+homo sapiens,OR51D1,Q8NGF3,butanoic acid,264,,CCCC(=O)O,0,,,41,uM
+homo sapiens,OR51D1,Q8NGF3,Delta-decalactone,12810,,CCCCCC1CCCC(=O)O1,0,,,29,uM
+homo sapiens,OR51D1,Q8NGF3,Androstenone,6852393,,C[C@]12CC[C@H]3[C@H]([C@@H]1CC=C2)CC[C@@H]4[C@@]3(CCC(=O)C4)C,0,0.024,,30,uM
+homo sapiens,OR51D1,Q8NGF3,(Z)-4-undecenal,5362881,,CCCCCC/C=C\CCC=O,0,,,100,uM
+homo sapiens,OR51D1,Q8NGF3,"3-Methyl-2,4-nonanedione",529481,,CCCCCC(=O)C(C)C(=O)C,0,,,30,uM
+homo sapiens,OR51D1,Q8NGF3,"3-Methyl-2,4-nonanedione",529481,,CCCCCC(=O)C(C)C(=O)C,0,,,300,uM
+homo sapiens,OR51D1,Q8NGF3,(e)-8-Cyclohexadecen-1-one,5362739,,C1CCC/C=C\CCCCCCC(=O)CCC1,0,,,100,uM
+homo sapiens,OR51D1,Q8NGF3,(5E)-3-methylcyclopentadec-5-en-1-one,9834606,,CC1C/C=C/CCCCCCCCCC(=O)C1,0,,,100,uM
+homo sapiens,OR51D1,Q8NGF3,Ambrettolide,5365703,,C1CCCCOC(=O)CCCCC/C=C\CCC1,0,,,100,uM
+homo sapiens,OR51D1,Q8NGF3,Galaxolide,91497,,CC1COCC2=CC3=C(C=C12)C(C(C3(C)C)C)(C)C,0,,,100,uM
+homo sapiens,OR51D1,Q8NGF3,L-Carvone,439570,6485-40-1,CC1=CC[C@H](CC1=O)C(=C)C,0,1.301312552,Fold,300,uM
+homo sapiens,OR51D1,Q8NGF3,D-Carvone,16724,2244-16-8,CC1=CC[C@@H](CC1=O)C(=C)C,0,1.163597697,Fold,300,uM
+homo sapiens,OR51D1,Q8NGF3,cis-3-hexanol,5281167,928-96-1,CC/C=C\CCO,0,1.076979131,Fold,1000,uM
+homo sapiens,OR51D1,Q8NGF3,anis aldehyde,31244,0123-11-5,COC1=CC=C(C=C1)C=O,0,2.34498725,Fold,3000,uM
+homo sapiens,OR51D1,Q8NGF3,methyl beta-naphthyl ketone,7122,93-08-3,CC(=O)C1=CC2=CC=CC=C2C=C1,0,2.386888098,Fold,100,uM
+homo sapiens,OR51D1,Q8NGF3,linalool,6549,78-70-6,CC(=CCCC(C)(C=C)O)C,0,1.033622682,Fold,300,uM
+homo sapiens,OR51D1,Q8NGF3,"Butter aroma recombinate (diacetyl, butanoic acid, delta-decalactone)",,,CC(=O)C(=O)C CCCC(=O)O CCCCCC1CCCC(=O)O1,0,,,4 41 29,uM
+homo sapiens,OR51D1,Q8NGF3,cis-3-hexenol trans-2-hexenal,,,CC/C=C\CCO CCC/C=C/C=O,0,,,50 50,uM
+homo sapiens,OR51D1,Q8NGF3,MCMP,,,CC(=O)C1=CC2=CC=CC=C2C=C1 CC1=CC[C@H](CC1=O)C(=C)C C/C=C/C1=CC(=C(C=C1)OC)OC CC(=O)OCCC1=CC=CC=C1,0,,,75 75 75 75,uM
+homo sapiens,OR51D1,Q8NGF3,L-Carvone d-Carvone cis-3-hexenol anis aldehyde methyl-beta-naphthyl ketone linalool,,,CC1=CC[C@H](CC1=O)C(=C)C CC1=CC[C@@H](CC1=O)C(=C)C CC/C=C\CCO COC1=CC=C(C=C1)C=O CC(=O)C1=CC2=CC=CC=C2C=C1 CC(=CCCC(C)(C=C)O)C,0,2.090011421,Fold,100 300 100 100 100 300,uM
+homo sapiens,OR51D1,Q8NGF3,L-Carvone d-Carvone cis-3-hexenol anis aldehyde methyl-beta-naphthyl ketone linalool,,,CC1=CC[C@H](CC1=O)C(=C)C CC1=CC[C@@H](CC1=O)C(=C)C CC/C=C\CCO COC1=CC=C(C=C1)C=O CC(=O)C1=CC2=CC=CC=C2C=C1 CC(=CCCC(C)(C=C)O)C,0,0.9641810428,Fold,100 300 100 100 100 300,uM
+homo sapiens,OR51D1,Q8NGF3,L-Carvone d-Carvone cis-3-hexenol anis aldehyde methyl-beta-naphthyl ketone linalool,,,CC1=CC[C@H](CC1=O)C(=C)C CC1=CC[C@@H](CC1=O)C(=C)C CC/C=C\CCO COC1=CC=C(C=C1)C=O CC(=O)C1=CC2=CC=CC=C2C=C1 CC(=CCCC(C)(C=C)O)C,0,1.57402868,Fold,100 300 100 100 100 300,uM
+homo sapiens,OR51D1,Q8NGF3,L-Carvone d-Carvone cis-3-hexenol anis aldehyde methyl-beta-naphthyl ketone linalool,,,CC1=CC[C@H](CC1=O)C(=C)C CC1=CC[C@@H](CC1=O)C(=C)C CC/C=C\CCO COC1=CC=C(C=C1)C=O CC(=O)C1=CC2=CC=CC=C2C=C1 CC(=CCCC(C)(C=C)O)C,0,1.386748169,Fold,100 300 100 100 100 300,uM
+homo sapiens,OR51D1,Q8NGF3,3-Mercaptohexyl acetate,518810,,CCCC(CCOC(=O)C)S,0,,,100,uM
+homo sapiens,OR51D1,Q8NGF3,Furaneol,19309,,CC1C(=O)C(=C(O1)C)O,0,,,1000,uM
+homo sapiens,OR51D1,Q8NGF3,Sotolone,62835,,CC1C(=C(C(=O)O1)O)C,0,,,1000,uM
+homo sapiens,OR51D1,Q8NGF3,homofuraneol,33931,,CCC1C(=O)C(=C(O1)C)O,0,,,1000,uM
+homo sapiens,OR51D1,Q8NGF3,Abhexone,61199,,CCC1C(=C(C(=O)O1)O)C,0,,,1000,uM
+homo sapiens,OR51D1,Q8NGF3,Allyl Phenyl acetate,15717,1746-13-0,C=CCOC(=O)CC1=CC=CC=C1,0,,,100,uM
+homo sapiens,OR51D1,Q8NGF3,"2,3,5-Trimethylpyrazine",26808,14667-55-1,CC1=CN=C(C(=N1)C)C,0,,,100,uM
+homo sapiens,OR51D1,Q8NGF3,"2,4,5-trimethyl-4,5-dihydrothiazole",263626,4145-93-1,CC1C(SC(=N1)C)C,0,,,100,uM
+homo sapiens,OR51D1,Q8NGF3,(Z)-4-undecenal,5362881,,CCCCCC/C=C\CCC=O,0,,,100,uM
+homo sapiens,OR51E1,Q8TCB6,n-amyl acetate,12348,628-63-7,CCCCCOC(=O)C,0,-1.063884495,,100,uM
+homo sapiens,OR51E1,Q8TCB6,Cyclohexanone,7967,108-94-1,C1CCC(=O)CC1,0,-0.4936426882,,100,uM
+homo sapiens,OR51E1,Q8TCB6,2-heptanone,8051,110-43-0,CCCCCC(=O)C,0,0.0999075731,,100,uM
+homo sapiens,OR51E1,Q8TCB6,acetophenone,7410,98-86-2,CC(=O)C1=CC=CC=C1,1,1.013355636,,100,uM
+homo sapiens,OR51E1,Q8TCB6,"2,4,5-trimethyl-2,5-dihydro-1,3-thiazole",181287,60633-24-1,CC1C(=NC(S1)C)C,0,-1.250975967,,100,uM
+homo sapiens,OR51E1,Q8TCB6,(-)-menthol,16666,2216-51-5,C[C@@H]1CC[C@H]([C@@H](C1)O)C(C)C,0,0.08775829865,,100,uM
+homo sapiens,OR51E1,Q8TCB6,(+)-menthol,165675,15356-60-2,C[C@H]1CC[C@@H]([C@H](C1)O)C(C)C,1,0.4327760377,,100,uM
+homo sapiens,OR51E1,Q8TCB6,1-butanol,263,71-36-3,CCCCO,1,0.2820014035,,100,uM
+homo sapiens,OR51E1,Q8TCB6,2-butanone,6569,78-93-3,CCC(=O)C,0,0.2007821598,,100,uM
+homo sapiens,OR51E1,Q8TCB6,2-decenal,5283345,3913-71-1,CCCCCCC/C=C/C=O,0,0.130630656,,100,uM
+homo sapiens,OR51E1,Q8TCB6,2-ethylfenchol,106997,18368-91-7,CCC1(C(C2CCC1(C2)C)(C)C)O,1,0.3173004189,,100,uM
+homo sapiens,OR51E1,Q8TCB6,2-methoxy-4-methylphenol,7144,93-51-6,CC1=CC(=C(C=C1)O)OC,0,0.1825312709,,100,uM
+homo sapiens,OR51E1,Q8TCB6,4-methylvaleric acid,12587,0646-07-01,CC(C)CCC(=O)O,1,0.3202388301,,100,uM
+homo sapiens,OR51E1,Q8TCB6,androstenone,6852393,18339-16-7,C[C@]12CC[C@H]3[C@H]([C@@H]1CC=C2)CC[C@@H]4[C@@]3(CCC(=O)C4)C,0,0.05146807919,,100,uM
+homo sapiens,OR51E1,Q8TCB6,bourgeonal,64832,18127-01-0,CC(C)(C)C1=CC=C(C=C1)CCC=O,0,-0.4065314911,,100,uM
+homo sapiens,OR51E1,Q8TCB6,butyl acetate,31272,123-86-4,CCCCOC(=O)C,0,0.07813811062,,100,uM
+homo sapiens,OR51E1,Q8TCB6,butyric acid,264,107-92-6,CCCC(=O)O,0,0.1088141783,,100,uM
+homo sapiens,OR51E1,Q8TCB6,caproic acid,8892,142-62-1,CCCCCC(=O)O,0,0.1750245615,,100,uM
+homo sapiens,OR51E1,Q8TCB6,cineole,2758,470-82-6,CC1(C2CCC(O1)(CC2)C)C,0,-0.06125115718,,100,uM
+homo sapiens,OR51E1,Q8TCB6,cis-3-hexen-1-ol,5281167,928-96-1,CC/C=C\CCO,0,0.0722781845,,100,uM
+homo sapiens,OR51E1,Q8TCB6,citral,638011,5392-40-5,CC(=CCC/C(=C/C=O)/C)C,1,0.4678340473,,100,uM
+homo sapiens,OR51E1,Q8TCB6,decyl aldehyde,8175,112-31-2,CCCCCCCCCC=O,1,0.295490356,,100,uM
+homo sapiens,OR51E1,Q8TCB6,diacetyl,650,0431-03-08,CC(=O)C(=O)C,0,-0.006940821998,,100,uM
+homo sapiens,OR51E1,Q8TCB6,diallyl sulfide,11617,592-88-1,C=CCSCC=C,1,0.2793059132,,100,uM
+homo sapiens,OR51E1,Q8TCB6,diphenyl ether,7583,101-84-8,C1=CC=C(C=C1)OC2=CC=CC=C2,0,-0.04358743,,100,uM
+homo sapiens,OR51E1,Q8TCB6,ethylene brassylate,61014,105-95-3,C1CCCCCC(=O)OCCOC(=O)CCCCC1,1,0.4097897499,,100,uM
+homo sapiens,OR51E1,Q8TCB6,eugenol acetate,7136,93-28-7,CC(=O)OC1=C(C=C(C=C1)CC=C)OC,0,0.2244155614,,100,uM
+homo sapiens,OR51E1,Q8TCB6,(-)-Fenchone,82229,7787-20-4,C[C@@]12CC[C@@H](C1)C(C2=O)(C)C,0,0.03015137408,,100,uM
+homo sapiens,OR51E1,Q8TCB6,galaxolide,91497,1222-05-05,CC1COCC2=CC3=C(C=C12)C(C(C3(C)C)C)(C)C,0,-0.2285166344,,100,uM
+homo sapiens,OR51E1,Q8TCB6,androstadienone,92979,4075-07-04,C[C@]12CC[C@H]3[C@H]([C@@H]1CC=C2)CCC4=CC(=O)CC[C@]34C,0,-0.1385654479,,100,uM
+homo sapiens,OR51E1,Q8TCB6,geranyl acetate,1549026,105-87-3,CC(=CCC/C(=C/COC(=O)C)/C)C,1,0.349007017,,100,uM
+homo sapiens,OR51E1,Q8TCB6,guaiacol,460,90-05-1,COC1=CC=CC=C1O,0,0.03260124787,,100,uM
+homo sapiens,OR51E1,Q8TCB6,heptyl acetate,8159,0112-06-01,CCCCCCCOC(=O)C,0,0.129089638,,100,uM
+homo sapiens,OR51E1,Q8TCB6,hexyl butyrate,17525,2639-63-6,CCCCCCOC(=O)CCC,0,-0.03447099801,,100,uM
+homo sapiens,OR51E1,Q8TCB6,isobornyl acetate,247573,0125-12-2,CC(=O)O[C@H]1C[C@H]2CC[C@]1(C2(C)C)C,0,0.01116280747,,100,uM
+homo sapiens,OR51E1,Q8TCB6,isobutyraldehyde,6561,78-84-2,CC(C)C=O,0,0.05870663994,,100,uM
+homo sapiens,OR51E1,Q8TCB6,isobutyric acid,6590,79-31-2,CC(C)C(=O)O,0,0.07626498316,,100,uM
+homo sapiens,OR51E1,Q8TCB6,isoeugenol,853433,97-54-1,C/C=C/C1=CC(=C(C=C1)O)OC,0,0.002305141662,,100,uM
+homo sapiens,OR51E1,Q8TCB6,isovaleric acid,10430,503-74-2,CC(C)CC(=O)O,1,1.95529767,,100,uM
+homo sapiens,OR51E1,Q8TCB6,methanethiol,878,74-93-1,CS,0,0.1246377501,,100,uM
+homo sapiens,OR51E1,Q8TCB6,methyl salicylate,4133,119-36-8,COC(=O)C1=CC=CC=C1O,0,0.1325601394,,100,uM
+homo sapiens,OR51E1,Q8TCB6,octyl acetate,8164,112-14-1,CCCCCCCCOC(=O)C,1,0.5018799692,,100,uM
+homo sapiens,OR51E1,Q8TCB6,pentadecalactone,235414,0106-02-05,C1CCCCCCCOC(=O)CCCCCC1,0,-0.1697048178,,100,uM
+homo sapiens,OR51E1,Q8TCB6,phenyl acetaldehyde,998,122-78-1,C1=CC=C(C=C1)CC=O,0,-0.1456857151,,100,uM
+homo sapiens,OR51E1,Q8TCB6,pyrazine,9261,290-37-9,C1=CN=CC=N1,0,-0.1057475096,,100,uM
+homo sapiens,OR51E1,Q8TCB6,terpineol,17100,98-55-5,CC1=CCC(CC1)C(C)(C)O,0,0.07369379907,,100,uM
+homo sapiens,OR51E1,Q8TCB6,terpinyl acetate,111037,80-26-2,CC1=CCC(CC1)C(C)(C)OC(=O)C,0,0.07280307515,,100,uM
+homo sapiens,OR51E1,Q8TCB6,undecanal,8186,112-44-7,CCCCCCCCCCC=O,0,0.1100108893,,100,uM
+homo sapiens,OR51E1,Q8TCB6,vanillin,1183,121-33-5,COC1=C(C=CC(=C1)C=O)O,0,0.06533802274,,100,uM
+homo sapiens,OR51E1,Q8TCB6,methyl benzoate,7150,93-58-3,COC(=O)C1=CC=CC=C1,1,0.6375715792,,100,uM
+homo sapiens,OR51E1,Q8TCB6,"2,4-DNT",8461,121-14-2,CC1=C(C=C(C=C1)[N+](=O)[O-])[N+](=O)[O-],1,0.29899225,,100,uM
+homo sapiens,OR51E1,Q8TCB6,eugenol methyl ether,7127,93-15-2,COC1=C(C=C(C=C1)CC=C)OC,0,3.3776,,1,uM
+homo sapiens,OR51E1,Q8TCB6,eugenol methyl ether,7127,93-15-2,COC1=C(C=C(C=C1)CC=C)OC,0,3.205433333,,0,uM
+homo sapiens,OR51E1,Q8TCB6,eugenol methyl ether,7127,93-15-2,COC1=C(C=C(C=C1)CC=C)OC,0,3.310933333,,10,uM
+homo sapiens,OR51E1,Q8TCB6,eugenol methyl ether,7127,93-15-2,COC1=C(C=C(C=C1)CC=C)OC,0,3.147733333,,100,uM
+homo sapiens,OR51E1,Q8TCB6,linalool,6549,78-70-6,CC(=CCCC(C)(C=C)O)C,0,1.294333333,,0,uM
+homo sapiens,OR51E1,Q8TCB6,linalool,6549,78-70-6,CC(=CCCC(C)(C=C)O)C,0,1.3187,,1,uM
+homo sapiens,OR51E1,Q8TCB6,linalool,6549,78-70-6,CC(=CCCC(C)(C=C)O)C,0,1.2857,,10,uM
+homo sapiens,OR51E1,Q8TCB6,linalool,6549,78-70-6,CC(=CCCC(C)(C=C)O)C,0,1.15385,,100,uM
+homo sapiens,OR51E1,Q8TCB6,methanethiol,878,74-93-1,CS,0,1.2737,,0,uM
+homo sapiens,OR51E1,Q8TCB6,methanethiol,878,74-93-1,CS,0,1.156133333,,1,uM
+homo sapiens,OR51E1,Q8TCB6,methanethiol,878,74-93-1,CS,0,1.03487,,10,uM
+homo sapiens,OR51E1,Q8TCB6,methanethiol,878,74-93-1,CS,0,1.00448,,100,uM
+homo sapiens,OR51E1,Q8TCB6,methyl salicylate,4133,119-36-8,COC(=O)C1=CC=CC=C1O,0,1.126426667,,0,uM
+homo sapiens,OR51E1,Q8TCB6,methyl salicylate,4133,119-36-8,COC(=O)C1=CC=CC=C1O,0,1.196333333,,1,uM
+homo sapiens,OR51E1,Q8TCB6,methyl salicylate,4133,119-36-8,COC(=O)C1=CC=CC=C1O,0,1.210766667,,10,uM
+homo sapiens,OR51E1,Q8TCB6,methyl salicylate,4133,119-36-8,COC(=O)C1=CC=CC=C1O,0,1.002736667,,100,uM
+homo sapiens,OR51E1,Q8TCB6,octyl aldehyde,454,124-13-0,CCCCCCCC=O,0,1.079916667,,0,uM
+homo sapiens,OR51E1,Q8TCB6,octyl aldehyde,454,124-13-0,CCCCCCCC=O,0,1.149666667,,1,uM
+homo sapiens,OR51E1,Q8TCB6,octyl aldehyde,454,124-13-0,CCCCCCCC=O,0,1.128196667,,10,uM
+homo sapiens,OR51E1,Q8TCB6,octyl aldehyde,454,124-13-0,CCCCCCCC=O,0,1.1609,,100,uM
+homo sapiens,OR51E1,Q8TCB6,isovaleric acid,10430,503-74-2,CC(C)CC(=O)O,1,-3.234457206,log(M),,uM
+homo sapiens,OR51E1,Q8TCB6,isovaleric acid,10430,503-74-2,CC(C)CC(=O)O,1,-4.480076569,log(M),,uM
+homo sapiens,OR51E1,Q8TCB6,isovaleric acid,10430,503-74-2,CC(C)CC(=O)O,1,-4.970493721,log(M),,uM
+homo sapiens,OR51E1,Q8TCB6,3-Mercaptohexyl acetate,518810,,CCCC(CCOC(=O)C)S,0,,,100,uM
+homo sapiens,OR51E1,Q8TCB6,Furaneol,19309,,CC1C(=O)C(=C(O1)C)O,0,,,1000,uM
+homo sapiens,OR51E1,Q8TCB6,Sotolone,62835,,CC1C(=C(C(=O)O1)O)C,0,,,1000,uM
+homo sapiens,OR51E1,Q8TCB6,homofuraneol,33931,,CCC1C(=O)C(=C(O1)C)O,0,,,1000,uM
+homo sapiens,OR51E1,Q8TCB6,Abhexone,61199,,CCC1C(=C(C(=O)O1)O)C,0,,,1000,uM
+homo sapiens,OR51E1,Q8TCB6,Butyric Acid,264,107-92-6,CCCC(=O)O,1,95.59,uM,,
+homo sapiens,OR51E1,Q8TCB6,Allyl Phenyl acetate,15717,1746-13-0,C=CCOC(=O)CC1=CC=CC=C1,0,,,100,uM
+homo sapiens,OR51E1,Q8TCB6,"2,3,5-Trimethylpyrazine",26808,14667-55-1,CC1=CN=C(C(=N1)C)C,0,,,100,uM
+homo sapiens,OR51E1,Q8TCB6,"2,4,5-trimethyl-4,5-dihydrothiazole",263626,4145-93-1,CC1C(SC(=N1)C)C,0,,,100,uM
+homo sapiens,OR51E1,Q8TCB6,isovaleric acid,10430,503-74-2,CC(C)CC(=O)O,1,-3.407895726,log(M),,uM
+homo sapiens,OR51E1,Q8TCB6,n-amyl acetate,12348,628-63-7,CCCCCOC(=O)C,0,-0.320290692,,100,uM
+homo sapiens,OR51E1,Q8TCB6,Cyclohexanone,7967,108-94-1,C1CCC(=O)CC1,0,-0.1423915154,,100,uM
+homo sapiens,OR51E1,Q8TCB6,2-heptanone,8051,110-43-0,CCCCCC(=O)C,0,-0.1755436776,,100,uM
+homo sapiens,OR51E1,Q8TCB6,acetophenone,7410,98-86-2,CC(=O)C1=CC=CC=C1,0,-0.03071696832,,100,uM
+homo sapiens,OR51E1,Q8TCB6,"2,4,5-trimethyl-2,5-dihydro-1,3-thiazole",181287,60633-24-1,CC1C(=NC(S1)C)C,0,-0.09284218685,,100,uM
+homo sapiens,OR51E1,Q8TCB6,(-)-menthol,16666,2216-51-5,C[C@@H]1CC[C@H]([C@@H](C1)O)C(C)C,0,-0.3455736961,,100,uM
+homo sapiens,OR51E1,Q8TCB6,(+)-menthol,165675,15356-60-2,C[C@H]1CC[C@@H]([C@H](C1)O)C(C)C,0,0.1345637923,,100,uM
+homo sapiens,OR51E1,Q8TCB6,1-butanol,263,71-36-3,CCCCO,0,0.1299827729,,100,uM
+homo sapiens,OR51E1,Q8TCB6,2-butanone,6569,78-93-3,CCC(=O)C,0,-0.07193972194,,100,uM
+homo sapiens,OR51E1,Q8TCB6,2-decenal,5283345,3913-71-1,CCCCCCC/C=C/C=O,1,0.6827801984,,100,uM
+homo sapiens,OR51E1,Q8TCB6,2-ethylfenchol,106997,18368-91-7,CCC1(C(C2CCC1(C2)C)(C)C)O,0,0.01650094329,,100,uM
+homo sapiens,OR51E1,Q8TCB6,2-methoxy-4-methylphenol,7144,93-51-6,CC1=CC(=C(C=C1)O)OC,0,-0.3438348181,,100,uM
+homo sapiens,OR51E1,Q8TCB6,androstenone,6852393,18339-16-7,C[C@]12CC[C@H]3[C@H]([C@@H]1CC=C2)CC[C@@H]4[C@@]3(CCC(=O)C4)C,0,0.04798460429,,100,uM
+homo sapiens,OR51E1,Q8TCB6,bourgeonal,64832,18127-01-0,CC(C)(C)C1=CC=C(C=C1)CCC=O,0,-0.3728771175,,100,uM
+homo sapiens,OR51E1,Q8TCB6,butyl acetate,31272,123-86-4,CCCCOC(=O)C,0,-0.08438394162,,100,uM
+homo sapiens,OR51E1,Q8TCB6,cineole,2758,470-82-6,CC1(C2CCC(O1)(CC2)C)C,0,0.01460644337,,100,uM
+homo sapiens,OR51E1,Q8TCB6,cis-3-hexen-1-ol,5281167,928-96-1,CC/C=C\CCO,0,-0.2996658615,,100,uM
+homo sapiens,OR51E1,Q8TCB6,citral,638011,5392-40-5,CC(=CCC/C(=C/C=O)/C)C,0,0.01696320099,,100,uM
+homo sapiens,OR51E1,Q8TCB6,decyl aldehyde,8175,112-31-2,CCCCCCCCCC=O,0,0.1888147072,,100,uM
+homo sapiens,OR51E1,Q8TCB6,diacetyl,650,0431-03-08,CC(=O)C(=O)C,0,0.05906854212,,100,uM
+homo sapiens,OR51E1,Q8TCB6,diallyl sulfide,11617,592-88-1,C=CCSCC=C,1,0.274798271,,100,uM
+homo sapiens,OR51E1,Q8TCB6,diphenyl ether,7583,101-84-8,C1=CC=C(C=C1)OC2=CC=CC=C2,0,0.1085340919,,100,uM
+homo sapiens,OR51E1,Q8TCB6,ethylene brassylate,61014,105-95-3,C1CCCCCC(=O)OCCOC(=O)CCCCC1,0,0.04210592072,,100,uM
+homo sapiens,OR51E1,Q8TCB6,eugenol acetate,7136,93-28-7,CC(=O)OC1=C(C=C(C=C1)CC=C)OC,0,0.1967244024,,100,uM
+homo sapiens,OR51E1,Q8TCB6,eugenol methyl ether,7127,93-15-2,COC1=C(C=C(C=C1)CC=C)OC,0,0.2161212899,,100,uM
+homo sapiens,OR51E1,Q8TCB6,(-)-Fenchone,82229,7787-20-4,C[C@@]12CC[C@@H](C1)C(C2=O)(C)C,0,0.05347067806,,100,uM
+homo sapiens,OR51E1,Q8TCB6,galaxolide,91497,1222-05-05,CC1COCC2=CC3=C(C=C12)C(C(C3(C)C)C)(C)C,1,0.2777954139,,100,uM
+homo sapiens,OR51E1,Q8TCB6,androstadienone,92979,4075-07-04,C[C@]12CC[C@H]3[C@H]([C@@H]1CC=C2)CCC4=CC(=O)CC[C@]34C,0,0.163641009,,100,uM
+homo sapiens,OR51E1,Q8TCB6,geranyl acetate,1549026,105-87-3,CC(=CCC/C(=C/COC(=O)C)/C)C,1,0.2304387712,,100,uM
+homo sapiens,OR51E1,Q8TCB6,guaiacol,460,90-05-1,COC1=CC=CC=C1O,0,0.1908018039,,100,uM
+homo sapiens,OR51E1,Q8TCB6,heptyl acetate,8159,0112-06-01,CCCCCCCOC(=O)C,0,0.1580889102,,100,uM
+homo sapiens,OR51E1,Q8TCB6,hexyl butyrate,17525,2639-63-6,CCCCCCOC(=O)CCC,0,-0.1888211991,,100,uM
+homo sapiens,OR51E1,Q8TCB6,isobornyl acetate,247573,0125-12-2,CC(=O)O[C@H]1C[C@H]2CC[C@]1(C2(C)C)C,0,-0.1169400106,,100,uM
+homo sapiens,OR51E1,Q8TCB6,isobutyraldehyde,6561,78-84-2,CC(C)C=O,0,-0.03457712258,,100,uM
+homo sapiens,OR51E1,Q8TCB6,isobutyric acid,6590,79-31-2,CC(C)C(=O)O,0,0.04617185909,,100,uM
+homo sapiens,OR51E1,Q8TCB6,isoeugenol,853433,97-54-1,C/C=C/C1=CC(=C(C=C1)O)OC,1,0.2334049319,,100,uM
+homo sapiens,OR51E1,Q8TCB6,isovaleric acid,10430,503-74-2,CC(C)CC(=O)O,0,-0.04326723021,,100,uM
+homo sapiens,OR51E1,Q8TCB6,linalool,6549,78-70-6,CC(=CCCC(C)(C=C)O)C,0,-0.09353611298,,100,uM
+homo sapiens,OR51E1,Q8TCB6,methanethiol,878,74-93-1,CS,0,-0.09448666568,,100,uM
+homo sapiens,OR51E1,Q8TCB6,methyl salicylate,4133,119-36-8,COC(=O)C1=CC=CC=C1O,0,-0.05838015841,,100,uM
+homo sapiens,OR51E1,Q8TCB6,octyl acetate,8164,112-14-1,CCCCCCCCOC(=O)C,0,-0.05268024065,,100,uM
+homo sapiens,OR51E1,Q8TCB6,octyl aldehyde,454,124-13-0,CCCCCCCC=O,0,-0.07167312316,,100,uM
+homo sapiens,OR51E1,Q8TCB6,pentadecalactone,235414,0106-02-05,C1CCCCCCCOC(=O)CCCCCC1,0,-0.09580860347,,100,uM
+homo sapiens,OR51E1,Q8TCB6,phenyl acetaldehyde,998,122-78-1,C1=CC=C(C=C1)CC=O,0,-0.1683435402,,100,uM
+homo sapiens,OR51E1,Q8TCB6,pyrazine,9261,290-37-9,C1=CN=CC=N1,0,-0.1323328151,,100,uM
+homo sapiens,OR51E1,Q8TCB6,terpineol,17100,98-55-5,CC1=CCC(CC1)C(C)(C)O,0,-0.0503472352,,100,uM
+homo sapiens,OR51E1,Q8TCB6,terpinyl acetate,111037,80-26-2,CC1=CCC(CC1)C(C)(C)OC(=O)C,0,-0.0280378163,,100,uM
+homo sapiens,OR51E1,Q8TCB6,undecanal,8186,112-44-7,CCCCCCCCCCC=O,0,-0.03322579955,,100,uM
+homo sapiens,OR51E1,Q8TCB6,vanillin,1183,121-33-5,COC1=C(C=CC(=C1)C=O)O,0,-0.02675795095,,100,uM
+homo sapiens,OR51E1,Q8TCB6,methyl benzoate,7150,93-58-3,COC(=O)C1=CC=CC=C1,0,-0.1106533585,,100,uM
+homo sapiens,OR51E1,Q8TCB6,"2,4-DNT",8461,121-14-2,CC1=C(C=C(C=C1)[N+](=O)[O-])[N+](=O)[O-],0,-0.2287008936,,100,uM
+homo sapiens,OR51E1,Q8TCB6,Cyclohexanone,7967,108-94-1,C1CCC(=O)CC1,0,2.3632,,0,uM
+homo sapiens,OR51E1,Q8TCB6,Cyclohexanone,7967,108-94-1,C1CCC(=O)CC1,0,2.457466667,,1,uM
+homo sapiens,OR51E1,Q8TCB6,Cyclohexanone,7967,108-94-1,C1CCC(=O)CC1,0,2.389566667,,10,uM
+homo sapiens,OR51E1,Q8TCB6,Cyclohexanone,7967,108-94-1,C1CCC(=O)CC1,0,2.755066667,,100,uM
+homo sapiens,OR51E1,Q8TCB6,acetophenone,7410,98-86-2,CC(=O)C1=CC=CC=C1,0,2.9978,,0,uM
+homo sapiens,OR51E1,Q8TCB6,acetophenone,7410,98-86-2,CC(=O)C1=CC=CC=C1,0,2.886466667,,1,uM
+homo sapiens,OR51E1,Q8TCB6,acetophenone,7410,98-86-2,CC(=O)C1=CC=CC=C1,0,2.8544,,10,uM
+homo sapiens,OR51E1,Q8TCB6,acetophenone,7410,98-86-2,CC(=O)C1=CC=CC=C1,0,2.766633333,,100,uM
+homo sapiens,OR51E1,Q8TCB6,4-methylvaleric acid,12587,0646-07-01,CC(C)CCC(=O)O,0,3.544933333,,0,uM
+homo sapiens,OR51E1,Q8TCB6,4-methylvaleric acid,12587,0646-07-01,CC(C)CCC(=O)O,0,3.964433333,,1,uM
+homo sapiens,OR51E1,Q8TCB6,4-methylvaleric acid,12587,0646-07-01,CC(C)CCC(=O)O,0,3.479566667,,10,uM
+homo sapiens,OR51E1,Q8TCB6,4-methylvaleric acid,12587,0646-07-01,CC(C)CCC(=O)O,0,3.933533333,,100,uM
+homo sapiens,OR51E1,Q8TCB6,butyric acid,264,107-92-6,CCCC(=O)O,0,5.8682,,0,uM
+homo sapiens,OR51E1,Q8TCB6,butyric acid,264,107-92-6,CCCC(=O)O,0,6.513766667,,1,uM
+homo sapiens,OR51E1,Q8TCB6,butyric acid,264,107-92-6,CCCC(=O)O,0,6.1221,,10,uM
+homo sapiens,OR51E1,Q8TCB6,butyric acid,264,107-92-6,CCCC(=O)O,0,7.336366667,,100,uM
+homo sapiens,OR51E1,Q8TCB6,caproic acid,8892,142-62-1,CCCCCC(=O)O,0,6.108866667,,0,uM
+homo sapiens,OR51E1,Q8TCB6,caproic acid,8892,142-62-1,CCCCCC(=O)O,0,6.689833333,,1,uM
+homo sapiens,OR51E1,Q8TCB6,caproic acid,8892,142-62-1,CCCCCC(=O)O,0,5.8798,,10,uM
+homo sapiens,OR51E1,Q8TCB6,caproic acid,8892,142-62-1,CCCCCC(=O)O,0,7.215666667,,100,uM
+homo sapiens,OR51E1,Q8TCB6,isovaleric acid,10430,503-74-2,CC(C)CC(=O)O,1,-5.568329742,log(M),,uM
+homo sapiens,OR51E1,Q8TCB6,isovaleric acid,10430,503-74-2,CC(C)CC(=O)O,1,-4.241576648,log(M),,uM
+homo sapiens,OR51E1,Q8TCB6,isovaleric acid,10430,503-74-2,CC(C)CC(=O)O,1,-4.711475633,log(M),,uM
+homo sapiens,OR51E1,Q8TCB6,isovaleric acid,10430,503-74-2,CC(C)CC(=O)O,1,-4.319547523,log(M),,uM
+homo sapiens,OR51E1,Q8TCB6,isovaleric acid,10430,503-74-2,CC(C)CC(=O)O,1,-4.505154747,log(M),,uM
+homo sapiens,OR51E1,Q8TCB6,isovaleric acid,10430,503-74-2,CC(C)CC(=O)O,1,-5.383465207,log(M),,uM
+homo sapiens,OR51E1,Q8TCB6,3-mercapto-2-methylpentan-1-ol,6430888,,CCC(C(C)CO)S,0,,,300,uM
+homo sapiens,OR51E1,Q8TCB6,2-methyl-3-sulfanylpropan-1-ol,529079,,CC(CO)CS,0,,,300,uM
+homo sapiens,OR51E1,Q8TCB6,2-Methyl-3-sulfanylheptan-1-ol,21997288,,CCCCC(C(C)CO)S,0,,,300,uM
+homo sapiens,OR51E1,Q8TCB6,3-Mercapto-2-methyloctan-1-ol,,,CCCCCC(C(C)CO)S,0,,,300,uM
+homo sapiens,OR51E1,Q8TCB6,(S)-2-Phenylbutanoic acid,785329,,CC[C@@H](C1=CC=CC=C1)C(=O)O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,(+)-Camphor,159055,,C[C@@]12CC[C@@H](C1(C)C)CC2=O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,(+)-Carvone,16724,,CC1=CC[C@@H](CC1=O)C(=C)C,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,(+)-Dihydrocarvone,24473,,CC1CCC(CC1=O)C(=C)C,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,(+)-Fenchone,1201521,,C[C@]12CC[C@H](C1)C(C2=O)(C)C,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,(R)-(-)-2-Phenylbutyric acid,785330,,CC[C@H](C1=CC=CC=C1)C(=O)O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,(-)-Camphor,444294,,C[C@]12CC[C@H](C1(C)C)CC2=O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,(-)-Carvone,439570,,CC1=CC[C@H](CC1=O)C(=C)C,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,(-)-Fenchone,82229,,C[C@@]12CC[C@@H](C1)C(C2=O)(C)C,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,(-)-beta-Citronellol,7793,,C[C@@H](CCC=C(C)C)CCO,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,1-Decanol,8174,,CCCCCCCCCCO,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,1-Heptanol,8129,,CCCCCCCO,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,1-Hexanol,8103,,CCCCCCO,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,1-Nonanol,8914,,CCCCCCCCCO,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,1-Octanol,957,,CCCCCCCCO,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,1-Pentanol,6276,,CCCCCO,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,2-Coumaranone,68382,,C1C2=CC=CC=C2OC1=O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,2-Heptanone,8051,,CCCCCC(=O)C,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,2-Hexanone,11583,,CCCCC(=O)C,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,2-Nonanone,13187,,CCCCCCCC(=O)C,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,2-Octanone,8093,,CCCCCCC(=O)C,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,2-Pentanone,7895,,CCCC(=O)C,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,"2,3-Hexanedione",19707,,CCCC(=O)C(=O)C,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,3-Heptanone,7802,,CCCCC(=O)CC,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,3-Octanone,246728,,CCCCCC(=O)CC,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,"3,4-Hexanedione",62539,,CCC(=O)C(=O)CC,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,4-Chromanone,68110,,C1COC2=CC=CC=C2C1=O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,4-Hydroxycoumarin,54682930,,C1=CC=C2C(=C1)C(=CC(=O)O2)O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,Acetophenone,7410,,CC(=O)C1=CC=CC=C1,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,Allyl benzene,9309,,C=CCC1=CC=CC=C1,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,Allyl heptanoate,8878,,CCCCCCC(=O)OCC=C,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,Allyl phenylacetate,15717,,C=CCOC(=O)CC1=CC=CC=C1,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,Amyl hexanoate,10886,,CCCCCC(=O)OCCCCC,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,Benzene,241,,C1=CC=CC=C1,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,Benzophenone,3102,,C1=CC=C(C=C1)C(=O)C2=CC=CC=C2,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,Benzyl acetate,8785,,CC(=O)OCC1=CC=CC=C1,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,Butyl butyryllactate,24114,,CCCCOC(=O)C(C)OC(=O)CCC,1,336.5115694,uM,3000,uM
+homo sapiens,OR51E1,Q8TCB6,Butyl formate,11614,,CCCCOC=O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,Coumarin,323,,C1=CC=C2C(=C1)C=CC(=O)O2,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,Cyclohexanone,7967,,C1CCC(=O)CC1,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,Decanal,8175,,CCCCCCCCCC=O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,Decanoic acid,2969,,CCCCCCCCCC(=O)O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,Dihydrojasmone,62378,,CCCCCC1=C(CCC1=O)C,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,Ethyl isobutyrate,7342,,CCOC(=O)C(C)C,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,Geraniol,637566,,CC(=CCC/C(=C/CO)/C)C,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,Heptanal,8130,,CCCCCCC=O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,Heptanoic acid,8094,,CCCCCCC(=O)O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,Hexanal,6184,,CCCCCC=O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,Hexanoic acid,8892,,CCCCCC(=O)O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,Hexyl acetate,8908,,CCCCCCOC(=O)C,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,Lyral,91604,,CC(C)(CCCC1=CCC(CC1)C=O)O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,Nonanal,31289,,CCCCCCCCC=O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,Nonanethiol,15077,,CCCCCCCCCS,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,Nonanoic acid,8158,,CCCCCCCCC(=O)O,1,246.0367604,uM,3000,uM
+homo sapiens,OR51E1,Q8TCB6,Octanal,454,,CCCCCCCC=O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,Octanethiol,8144,,CCCCCCCCS,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,Octanoic acid,379,,CCCCCCCC(=O)O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,Pentanoic acid,7991,,CCCCC(=O)O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,Phenyl acetate,31229,,CC(=O)OC1=CC=CC=C1,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,Prenyl acetate,14489,,CC(=CCOC(=O)C)C,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,Propionic acid,1032,,CCC(=O)O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,Vanillic acid,8468,,COC1=C(C=CC(=C1)C(=O)O)O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,gamma-Caprolactone,12756,,CCC1CCC(=O)O1,0,n.d,n.d,3000,uM
+homo sapiens,OR51E1,Q8TCB6,Diacetyl,650,,CC(=O)C(=O)C,0,,,4,uM
+homo sapiens,OR51E1,Q8TCB6,butanoic acid,264,,CCCC(=O)O,0,,,41,uM
+homo sapiens,OR51E1,Q8TCB6,Delta-decalactone,12810,,CCCCCC1CCCC(=O)O1,0,,,29,uM
+homo sapiens,OR51E1,Q8TCB6,Androstenone,6852393,,C[C@]12CC[C@H]3[C@H]([C@@H]1CC=C2)CC[C@@H]4[C@@]3(CCC(=O)C4)C,0,-0.051,,30,uM
+homo sapiens,OR51E1,Q8TCB6,4-methyl-valeric acid,12587,,CC(C)CCC(=O)O,1,150,uM,,
+homo sapiens,OR51E1,Q8TCB6,3-methyl-valeric acid,7755,,CCC(C)CC(=O)O,1,150,uM,,
+homo sapiens,OR51E1,Q8TCB6,2-Methylvaleric acid,7341,,CCCC(C)C(=O)O,1,>500,uM,,
+homo sapiens,OR51E1,Q8TCB6,Valeric acid,7991,,CCCCC(=O)O,1,>1500,uM,,
+homo sapiens,OR51E1,Q8TCB6,Isovaleric acid,10430,,CC(C)CC(=O)O,1,>1500,uM,,
+homo sapiens,OR51E1,Q8TCB6,Citric acid,311,,C(C(=O)O)C(CC(=O)O)(C(=O)O)O,0,n.d,n.d,150,uM
+homo sapiens,OR51E1,Q8TCB6,Butyric acid,264,,CCCC(=O)O,0,n.d,n.d,150,uM
+homo sapiens,OR51E1,Q8TCB6,Hexanoic acid,8892,,CCCCCC(=O)O,0,n.d,n.d,150,uM
+homo sapiens,OR51E1,Q8TCB6,Octanoic acid,379,,CCCCCCCC(=O)O,0,n.d,n.d,150,uM
+homo sapiens,OR51E1,Q8TCB6,Decanoic acid,2969,,CCCCCCCCCC(=O)O,0,n.d,n.d,150,uM
+homo sapiens,OR51E1,Q8TCB6,Dodecanoic acid,3893,,CCCCCCCCCCCC(=O)O,0,n.d,n.d,150,uM
+homo sapiens,OR51E1,Q8TCB6,Tetradecanoic acid,11005,,CCCCCCCCCCCCCC(=O)O,0,n.d,n.d,150,uM
+homo sapiens,OR51E1,Q8TCB6,Hexadecanoic acid,985,,CCCCCCCCCCCCCCCC(=O)O,0,n.d,n.d,150,uM
+homo sapiens,OR51E1,Q8TCB6,Benzoic acid,243,,C1=CC=C(C=C1)C(=O)O,0,n.d,n.d,150,uM
+homo sapiens,OR51E1,Q8TCB6,Hexanol,8103,,CCCCCCO,0,n.d,n.d,150,uM
+homo sapiens,OR51E1,Q8TCB6,Octanol,957,,CCCCCCCCO,0,n.d,n.d,150,uM
+homo sapiens,OR51E1,Q8TCB6,Decanol,8174,,CCCCCCCCCCO,0,n.d,n.d,150,uM
+homo sapiens,OR51E1,Q8TCB6,4-methyl-valeric acid,12587,,CC(C)CCC(=O)O,1,500,uM,,
+homo sapiens,OR51E1,Q8TCB6,3-methyl-valeric acid,7755,,CCC(C)CC(=O)O,1,500,uM,,
+homo sapiens,OR51E1,Q8TCB6,2-methylvaleric acid,7341,,CCCC(C)C(=O)O,1,>1500,uM,,
+homo sapiens,OR51E1,Q8TCB6,Valeric acid,7991,,CCCCC(=O)O,0,n.d,n.d,500,uM
+homo sapiens,OR51E1,Q8TCB6,Isovaleric acid,10430,,CC(C)CC(=O)O,0,n.d,n.d,500,uM
+homo sapiens,OR51E1,Q8TCB6,(Z)-4-undecenal,5362881,,CCCCCC/C=C\CCC=O,0,,,100,uM
+homo sapiens,OR51E1,Q8TCB6,"3-Methyl-2,4-nonanedione",529481,,CCCCCC(=O)C(C)C(=O)C,0,,,30,uM
+homo sapiens,OR51E1,Q8TCB6,"3-Methyl-2,4-nonanedione",529481,,CCCCCC(=O)C(C)C(=O)C,0,,,300,uM
+homo sapiens,OR51E1,Q8TCB6,(e)-8-Cyclohexadecen-1-one,5362739,,C1CCC/C=C\CCCCCCC(=O)CCC1,0,,,100,uM
+homo sapiens,OR51E1,Q8TCB6,(5E)-3-methylcyclopentadec-5-en-1-one,9834606,,CC1C/C=C/CCCCCCCCCC(=O)C1,0,,,100,uM
+homo sapiens,OR51E1,Q8TCB6,Ambrettolide,5365703,,C1CCCCOC(=O)CCCCC/C=C\CCC1,0,,,100,uM
+homo sapiens,OR51E1,Q8TCB6,Galaxolide,91497,,CC1COCC2=CC3=C(C=C12)C(C(C3(C)C)C)(C)C,0,,,100,uM
+homo sapiens,OR51E1,Q8TCB6,acetic acid,176,,CC(=O)O,0,n.d,n.d,,
+homo sapiens,OR51E1,Q8TCB6,propanoic acid,1032,,CCC(=O)O,1,398.1071706,uM,,
+homo sapiens,OR51E1,Q8TCB6,butanoic acid,264,,CCCC(=O)O,1,95.4992586,uM,,
+homo sapiens,OR51E1,Q8TCB6,isovaleric acid,10430,,CC(C)CC(=O)O,1,31.6227766,uM,,
+homo sapiens,OR51E1,Q8TCB6,pentanoic acid,7991,,CCCCC(=O)O,1,109.6478196,uM,,
+homo sapiens,OR51E1,Q8TCB6,hexanoic acid,8892,,CCCCCC(=O)O,1,158.4893192,uM,,
+homo sapiens,OR51E1,Q8TCB6,2-methylhexanoic acid,20653,,CCCCC(C)C(=O)O,0,n.d,n.d,,
+homo sapiens,OR51E1,Q8TCB6,3-methylhexanoic acid,95315,,CCCC(C)CC(=O)O,1,199.5262315,uM,,
+homo sapiens,OR51E1,Q8TCB6,(E)-3-methyl-2-hexenoic acid,6443739,,CCC/C(=C/C(=O)O)/C,0,n.d,n.d,,
+homo sapiens,OR51E1,Q8TCB6,3-hydroxy-3-methylhexanoic acid,16666688,,CCCC(C)(CC(=O)O)O,0,n.d,n.d,,
+homo sapiens,OR51E1,Q8TCB6,heptanoic acid,8094,,CCCCCCC(=O)O,1,316.227766,uM,,
+homo sapiens,OR51E1,Q8TCB6,2-methylheptanoic acid,14475,,CCCCCC(C)C(=O)O,0,n.d,n.d,,
+homo sapiens,OR51E1,Q8TCB6,octanoic acid,379,,CCCCCCCC(=O)O,0,n.d,n.d,,
+homo sapiens,OR51E1,Q8TCB6,4-ethyloctanoic acid,61840,,CCCCC(CC)CCC(=O)O,0,n.d,n.d,,
+homo sapiens,OR51E1,Q8TCB6,nonanoic acid,8158,,CCCCCCCCC(=O)O,0,n.d,n.d,,
+homo sapiens,OR51E1,Q8TCB6,decanoic acid,2969,,CCCCCCCCCC(=O)O,0,n.d,n.d,,
+homo sapiens,OR51E1,Q8TCB6,undecanoic acid,8180,,CCCCCCCCCCC(=O)O,0,n.d,n.d,,
+homo sapiens,OR51E1,Q8TCB6,benzoic acid,243,,C1=CC=C(C=C1)C(=O)O,0,n.d,n.d,,
+homo sapiens,OR51E1,Q8TCB6,phenylacetic acid,999,,C1=CC=C(C=C1)CC(=O)O,0,n.d,n.d,,
+homo sapiens,OR51E1,Q8TCB6,5-norbornene-2-carboxylic acid,78949,,C1C2CC(C1C=C2)C(=O)O,1,18,uM,,
+homo sapiens,OR51E1,Q8TCB6,L-Carvone,439570,6485-40-1,CC1=CC[C@H](CC1=O)C(=C)C,0,1.02523297,Fold,300,uM
+homo sapiens,OR51E1,Q8TCB6,D-Carvone,16724,2244-16-8,CC1=CC[C@@H](CC1=O)C(=C)C,0,1.576431019,Fold,300,uM
+homo sapiens,OR51E1,Q8TCB6,cis-3-hexanol,5281167,928-96-1,CC/C=C\CCO,0,1.181539452,Fold,1000,uM
+homo sapiens,OR51E1,Q8TCB6,anis aldehyde,31244,0123-11-5,COC1=CC=C(C=C1)C=O,0,2.942817172,Fold,3000,uM
+homo sapiens,OR51E1,Q8TCB6,methyl beta-naphthyl ketone,7122,93-08-3,CC(=O)C1=CC2=CC=CC=C2C=C1,0,1.894804617,Fold,100,uM
+homo sapiens,OR51E1,Q8TCB6,linalool,6549,78-70-6,CC(=CCCC(C)(C=C)O)C,0,1.369172253,Fold,300,uM
+homo sapiens,OR51E1,Q8TCB6,"Butter aroma recombinate (diacetyl, butanoic acid, delta-decalactone)",,,CC(=O)C(=O)C CCCC(=O)O CCCCCC1CCCC(=O)O1,0,,,4 41 29,uM
+homo sapiens,OR51E1,Q8TCB6,cis-3-hexenol trans-2-hexenal,,,CC/C=C\CCO CCC/C=C/C=O,0,,,50 50,uM
+homo sapiens,OR51E1,Q8TCB6,MCMP,,,CC(=O)C1=CC2=CC=CC=C2C=C1 CC1=CC[C@H](CC1=O)C(=C)C C/C=C/C1=CC(=C(C=C1)OC)OC CC(=O)OCCC1=CC=CC=C1,0,,,75 75 75 75,uM
+homo sapiens,OR51E1,Q8TCB6,L-Carvone d-Carvone cis-3-hexenol anis aldehyde methyl-beta-naphthyl ketone linalool,,,CC1=CC[C@H](CC1=O)C(=C)C CC1=CC[C@@H](CC1=O)C(=C)C CC/C=C\CCO COC1=CC=C(C=C1)C=O CC(=O)C1=CC2=CC=CC=C2C=C1 CC(=CCCC(C)(C=C)O)C,1,3.680939025,Fold,100 300 100 100 100 300,uM
+homo sapiens,OR51E1,Q8TCB6,L-Carvone d-Carvone cis-3-hexenol anis aldehyde methyl-beta-naphthyl ketone linalool,,,CC1=CC[C@H](CC1=O)C(=C)C CC1=CC[C@@H](CC1=O)C(=C)C CC/C=C\CCO COC1=CC=C(C=C1)C=O CC(=O)C1=CC2=CC=CC=C2C=C1 CC(=CCCC(C)(C=C)O)C,0,n.d,n.d,300 900 300 300 300 900,uM
+homo sapiens,OR51E1,Q8TCB6,L-Carvone d-Carvone cis-3-hexenol anis aldehyde methyl-beta-naphthyl ketone linalool,,,CC1=CC[C@H](CC1=O)C(=C)C CC1=CC[C@@H](CC1=O)C(=C)C CC/C=C\CCO COC1=CC=C(C=C1)C=O CC(=O)C1=CC2=CC=CC=C2C=C1 CC(=CCCC(C)(C=C)O)C,0,1.173174227,Fold,100 300 100 100 100 300,uM
+homo sapiens,OR51E1,Q8TCB6,L-Carvone d-Carvone cis-3-hexenol anis aldehyde methyl-beta-naphthyl ketone linalool,,,CC1=CC[C@H](CC1=O)C(=C)C CC1=CC[C@@H](CC1=O)C(=C)C CC/C=C\CCO COC1=CC=C(C=C1)C=O CC(=O)C1=CC2=CC=CC=C2C=C1 CC(=CCCC(C)(C=C)O)C,0,1.589972536,Fold,100 300 100 100 100 300,uM
+homo sapiens,OR51E1,Q8TCB6,L-Carvone d-Carvone cis-3-hexenol anis aldehyde methyl-beta-naphthyl ketone linalool,,,CC1=CC[C@H](CC1=O)C(=C)C CC1=CC[C@@H](CC1=O)C(=C)C CC/C=C\CCO COC1=CC=C(C=C1)C=O CC(=O)C1=CC2=CC=CC=C2C=C1 CC(=CCCC(C)(C=C)O)C,0,2.755603493,Fold,100 300 100 100 100 300,uM
+homo sapiens,OR51E2,Q9H255,n-amyl acetate,12348,628-63-7,CCCCCOC(=O)C,0,-0.7476154624,,100,uM
+homo sapiens,OR51E2,Q9H255,Cyclohexanone,7967,108-94-1,C1CCC(=O)CC1,0,-0.5436657001,,100,uM
+homo sapiens,OR51E2,Q9H255,2-heptanone,8051,110-43-0,CCCCCC(=O)C,1,0.542974014,,100,uM
+homo sapiens,OR51E2,Q9H255,acetophenone,7410,98-86-2,CC(=O)C1=CC=CC=C1,0,0.0156390021,,100,uM
+homo sapiens,OR51E2,Q9H255,"2,4,5-trimethyl-2,5-dihydro-1,3-thiazole",181287,60633-24-1,CC1C(=NC(S1)C)C,1,0.2817004488,,100,uM
+homo sapiens,OR51E2,Q9H255,(-)-menthol,16666,2216-51-5,C[C@@H]1CC[C@H]([C@@H](C1)O)C(C)C,0,-0.07548477188,,100,uM
+homo sapiens,OR51E2,Q9H255,(+)-menthol,165675,15356-60-2,C[C@H]1CC[C@@H]([C@H](C1)O)C(C)C,0,0.004314525991,,100,uM
+homo sapiens,OR51E2,Q9H255,1-butanol,263,71-36-3,CCCCO,0,-0.08721761415,,100,uM
+homo sapiens,OR51E2,Q9H255,2-butanone,6569,78-93-3,CCC(=O)C,0,-0.164748733,,100,uM
+homo sapiens,OR51E2,Q9H255,2-decenal,5283345,3913-71-1,CCCCCCC/C=C/C=O,0,-0.1536997312,,100,uM
+homo sapiens,OR51E2,Q9H255,2-ethylfenchol,106997,18368-91-7,CCC1(C(C2CCC1(C2)C)(C)C)O,0,-0.1316120044,,100,uM
+homo sapiens,OR51E2,Q9H255,2-methoxy-4-methylphenol,7144,93-51-6,CC1=CC(=C(C=C1)O)OC,0,-0.08143765441,,100,uM
+homo sapiens,OR51E2,Q9H255,4-methylvaleric acid,12587,0646-07-01,CC(C)CCC(=O)O,0,-0.08886110448,,100,uM
+homo sapiens,OR51E2,Q9H255,androstenone,6852393,18339-16-7,C[C@]12CC[C@H]3[C@H]([C@@H]1CC=C2)CC[C@@H]4[C@@]3(CCC(=O)C4)C,1,0.5432225052,,100,uM
+homo sapiens,OR51E2,Q9H255,bourgeonal,64832,18127-01-0,CC(C)(C)C1=CC=C(C=C1)CCC=O,0,-0.1704218803,,100,uM
+homo sapiens,OR51E2,Q9H255,butyl acetate,31272,123-86-4,CCCCOC(=O)C,0,0.04049419645,,100,uM
+homo sapiens,OR51E2,Q9H255,butyric acid,264,107-92-6,CCCC(=O)O,0,0.1092130152,,100,uM
+homo sapiens,OR51E2,Q9H255,caproic acid,8892,142-62-1,CCCCCC(=O)O,0,-0.009618403066,,100,uM
+homo sapiens,OR51E2,Q9H255,cineole,2758,470-82-6,CC1(C2CCC(O1)(CC2)C)C,0,0.04660317485,,100,uM
+homo sapiens,OR51E2,Q9H255,cis-3-hexen-1-ol,5281167,928-96-1,CC/C=C\CCO,0,0.09942699102,,100,uM
+homo sapiens,OR51E2,Q9H255,citral,638011,5392-40-5,CC(=CCC/C(=C/C=O)/C)C,0,0.07065994825,,100,uM
+homo sapiens,OR51E2,Q9H255,decyl aldehyde,8175,112-31-2,CCCCCCCCCC=O,0,0.02255758551,,100,uM
+homo sapiens,OR51E2,Q9H255,diacetyl,650,0431-03-08,CC(=O)C(=O)C,0,-0.05171351542,,100,uM
+homo sapiens,OR51E2,Q9H255,diallyl sulfide,11617,592-88-1,C=CCSCC=C,0,-0.1207508161,,100,uM
+homo sapiens,OR51E2,Q9H255,diphenyl ether,7583,101-84-8,C1=CC=C(C=C1)OC2=CC=CC=C2,0,-0.08893846217,,100,uM
+homo sapiens,OR51E2,Q9H255,ethylene brassylate,61014,105-95-3,C1CCCCCC(=O)OCCOC(=O)CCCCC1,0,0.05929806786,,100,uM
+homo sapiens,OR51E2,Q9H255,eugenol acetate,7136,93-28-7,CC(=O)OC1=C(C=C(C=C1)CC=C)OC,1,0.4255619064,,100,uM
+homo sapiens,OR51E2,Q9H255,eugenol methyl ether,7127,93-15-2,COC1=C(C=C(C=C1)CC=C)OC,1,0.2620317427,,100,uM
+homo sapiens,OR51E2,Q9H255,(-)-Fenchone,82229,7787-20-4,C[C@@]12CC[C@@H](C1)C(C2=O)(C)C,0,-0.03171344641,,100,uM
+homo sapiens,OR51E2,Q9H255,galaxolide,91497,1222-05-05,CC1COCC2=CC3=C(C=C12)C(C(C3(C)C)C)(C)C,0,0.01041403808,,100,uM
+homo sapiens,OR51E2,Q9H255,androstadienone,92979,4075-07-04,C[C@]12CC[C@H]3[C@H]([C@@H]1CC=C2)CCC4=CC(=O)CC[C@]34C,0,0.1107543729,,100,uM
+homo sapiens,OR51E2,Q9H255,geranyl acetate,1549026,105-87-3,CC(=CCC/C(=C/COC(=O)C)/C)C,0,-0.009481654018,,100,uM
+homo sapiens,OR51E2,Q9H255,guaiacol,460,90-05-1,COC1=CC=CC=C1O,0,-0.02513738544,,100,uM
+homo sapiens,OR51E2,Q9H255,heptyl acetate,8159,0112-06-01,CCCCCCCOC(=O)C,0,0.1745364639,,100,uM
+homo sapiens,OR51E2,Q9H255,hexyl butyrate,17525,2639-63-6,CCCCCCOC(=O)CCC,0,-0.06011159901,,100,uM
+homo sapiens,OR51E2,Q9H255,isobornyl acetate,247573,0125-12-2,CC(=O)O[C@H]1C[C@H]2CC[C@]1(C2(C)C)C,0,-0.03117354493,,100,uM
+homo sapiens,OR51E2,Q9H255,isobutyraldehyde,6561,78-84-2,CC(C)C=O,0,0.01262807901,,100,uM
+homo sapiens,OR51E2,Q9H255,isobutyric acid,6590,79-31-2,CC(C)C(=O)O,1,0.3276602092,,100,uM
+homo sapiens,OR51E2,Q9H255,isoeugenol,853433,97-54-1,C/C=C/C1=CC(=C(C=C1)O)OC,0,0.1069250541,,100,uM
+homo sapiens,OR51E2,Q9H255,isovaleric acid,10430,503-74-2,CC(C)CC(=O)O,0,0.1686512455,,100,uM
+homo sapiens,OR51E2,Q9H255,linalool,6549,78-70-6,CC(=CCCC(C)(C=C)O)C,0,0.08868924574,,100,uM
+homo sapiens,OR51E2,Q9H255,methanethiol,878,74-93-1,CS,0,-0.03994866556,,100,uM
+homo sapiens,OR51E2,Q9H255,methyl salicylate,4133,119-36-8,COC(=O)C1=CC=CC=C1O,0,-0.07368343446,,100,uM
+homo sapiens,OR51E2,Q9H255,octyl acetate,8164,112-14-1,CCCCCCCCOC(=O)C,0,0.08232828268,,100,uM
+homo sapiens,OR51E2,Q9H255,octyl aldehyde,454,124-13-0,CCCCCCCC=O,0,0.1093776022,,100,uM
+homo sapiens,OR51E2,Q9H255,pentadecalactone,235414,0106-02-05,C1CCCCCCCOC(=O)CCCCCC1,0,-0.1375738999,,100,uM
+homo sapiens,OR51E2,Q9H255,phenyl acetaldehyde,998,122-78-1,C1=CC=C(C=C1)CC=O,0,-0.1526263988,,100,uM
+homo sapiens,OR51E2,Q9H255,pyrazine,9261,290-37-9,C1=CN=CC=N1,0,-0.1580296719,,100,uM
+homo sapiens,OR51E2,Q9H255,terpineol,17100,98-55-5,CC1=CCC(CC1)C(C)(C)O,0,-0.07691252995,,100,uM
+homo sapiens,OR51E2,Q9H255,terpinyl acetate,111037,80-26-2,CC1=CCC(CC1)C(C)(C)OC(=O)C,0,-0.07185975354,,100,uM
+homo sapiens,OR51E2,Q9H255,undecanal,8186,112-44-7,CCCCCCCCCCC=O,0,-0.07923561981,,100,uM
+homo sapiens,OR51E2,Q9H255,vanillin,1183,121-33-5,COC1=C(C=CC(=C1)C=O)O,0,0.02301044893,,100,uM
+homo sapiens,OR51E2,Q9H255,methyl benzoate,7150,93-58-3,COC(=O)C1=CC=CC=C1,0,-0.1877809089,,100,uM
+homo sapiens,OR51E2,Q9H255,"2,4-DNT",8461,121-14-2,CC1=C(C=C(C=C1)[N+](=O)[O-])[N+](=O)[O-],0,-0.2950218099,,100,uM
+homo sapiens,OR51E2,Q9H255,butyl acetate,31272,123-86-4,CCCCOC(=O)C,0,2.581366667,,0,uM
+homo sapiens,OR51E2,Q9H255,butyl acetate,31272,123-86-4,CCCCOC(=O)C,0,2.894766667,,1,uM
+homo sapiens,OR51E2,Q9H255,butyl acetate,31272,123-86-4,CCCCOC(=O)C,0,2.843433333,,10,uM
+homo sapiens,OR51E2,Q9H255,butyl acetate,31272,123-86-4,CCCCOC(=O)C,0,2.324166667,,100,uM
+homo sapiens,OR51E2,Q9H255,butyric acid,264,107-92-6,CCCC(=O)O,0,2.343066667,,0,uM
+homo sapiens,OR51E2,Q9H255,butyric acid,264,107-92-6,CCCC(=O)O,0,2.189,,1,uM
+homo sapiens,OR51E2,Q9H255,butyric acid,264,107-92-6,CCCC(=O)O,0,2.321566667,,10,uM
+homo sapiens,OR51E2,Q9H255,butyric acid,264,107-92-6,CCCC(=O)O,0,2.552866667,,100,uM
+homo sapiens,OR51E2,Q9H255,cineole,2758,470-82-6,CC1(C2CCC(O1)(CC2)C)C,0,2.819833333,,0,uM
+homo sapiens,OR51E2,Q9H255,cineole,2758,470-82-6,CC1(C2CCC(O1)(CC2)C)C,0,2.8421,,1,uM
+homo sapiens,OR51E2,Q9H255,cineole,2758,470-82-6,CC1(C2CCC(O1)(CC2)C)C,0,2.907766667,,10,uM
+homo sapiens,OR51E2,Q9H255,cineole,2758,470-82-6,CC1(C2CCC(O1)(CC2)C)C,0,2.803433333,,100,uM
+homo sapiens,OR51E2,Q9H255,isovaleric acid,10430,503-74-2,CC(C)CC(=O)O,0,0.8823933333,,0,uM
+homo sapiens,OR51E2,Q9H255,isovaleric acid,10430,503-74-2,CC(C)CC(=O)O,0,0.92448,,1,uM
+homo sapiens,OR51E2,Q9H255,isovaleric acid,10430,503-74-2,CC(C)CC(=O)O,0,0.9863533333,,10,uM
+homo sapiens,OR51E2,Q9H255,isovaleric acid,10430,503-74-2,CC(C)CC(=O)O,0,0.81929,,100,uM
+homo sapiens,OR51E2,Q9H255,linalool,6549,78-70-6,CC(=CCCC(C)(C=C)O)C,0,0.77893,,0,uM
+homo sapiens,OR51E2,Q9H255,linalool,6549,78-70-6,CC(=CCCC(C)(C=C)O)C,0,0.8308233333,,1,uM
+homo sapiens,OR51E2,Q9H255,linalool,6549,78-70-6,CC(=CCCC(C)(C=C)O)C,0,0.8580566667,,10,uM
+homo sapiens,OR51E2,Q9H255,linalool,6549,78-70-6,CC(=CCCC(C)(C=C)O)C,0,0.63162,,100,uM
+homo sapiens,OR51E2,Q9H255,methanethiol,878,74-93-1,CS,0,0.8652933333,,0,uM
+homo sapiens,OR51E2,Q9H255,methanethiol,878,74-93-1,CS,0,0.8454066667,,1,uM
+homo sapiens,OR51E2,Q9H255,methanethiol,878,74-93-1,CS,0,0.7684233333,,10,uM
+homo sapiens,OR51E2,Q9H255,methanethiol,878,74-93-1,CS,0,0.65789,,100,uM
+homo sapiens,OR51E2,Q9H255,(+/-)-Muscone,10947,541-91-3,CC1CCCCCCCCCCCCC(=O)C1,0,0,,100,uM
+homo sapiens,OR51E2,Q9H255,propionic acid,1032,79-09-4,CCC(=O)O,1,-3.398771957,log(M),,uM
+homo sapiens,OR51E2,Q9H255,beta-Ionone,638014,14901-07-06,CC1=C(C(CCC1)(C)C)/C=C/C(=O)C,0,n.d,n.d,,uM
+homo sapiens,OR51E2,Q9H255,isovaleric acid,10430,503-74-2,CC(C)CC(=O)O,0,n.d,n.d,,uM
+homo sapiens,OR51E2,Q9H255,3-Mercaptohexyl acetate,518810,,CCCC(CCOC(=O)C)S,0,,,100,uM
+homo sapiens,OR51E2,Q9H255,Furaneol,19309,,CC1C(=O)C(=C(O1)C)O,0,,,1000,uM
+homo sapiens,OR51E2,Q9H255,Sotolone,62835,,CC1C(=C(C(=O)O1)O)C,0,,,1000,uM
+homo sapiens,OR51E2,Q9H255,homofuraneol,33931,,CCC1C(=O)C(=C(O1)C)O,0,,,1000,uM
+homo sapiens,OR51E2,Q9H255,Abhexone,61199,,CCC1C(=C(C(=O)O1)O)C,0,,,1000,uM
+homo sapiens,OR51E2,Q9H255,Allyl Phenyl acetate,15717,1746-13-0,C=CCOC(=O)CC1=CC=CC=C1,0,,,100,uM
+homo sapiens,OR51E2,Q9H255,"2,3,5-Trimethylpyrazine",26808,14667-55-1,CC1=CN=C(C(=N1)C)C,0,,,100,uM
+homo sapiens,OR51E2,Q9H255,"2,4,5-trimethyl-4,5-dihydrothiazole",263626,4145-93-1,CC1C(SC(=N1)C)C,0,,,100,uM
+homo sapiens,OR51E2,Q9H255,3-mercapto-2-methylpentan-1-ol,6430888,,CCC(C(C)CO)S,0,,,300,uM
+homo sapiens,OR51E2,Q9H255,2-methyl-3-sulfanylpropan-1-ol,529079,,CC(CO)CS,0,,,300,uM
+homo sapiens,OR51E2,Q9H255,2-Methyl-3-sulfanylheptan-1-ol,21997288,,CCCCC(C(C)CO)S,0,,,300,uM
+homo sapiens,OR51E2,Q9H255,3-Mercapto-2-methyloctan-1-ol,,,CCCCCC(C(C)CO)S,0,,,300,uM
+homo sapiens,OR51E2,Q9H255,Musk xylol,62329,,CC1=C(C(=C(C(=C1[N+](=O)[O-])C(C)(C)C)[N+](=O)[O-])C)[N+](=O)[O-],0,0,,100,uM
+homo sapiens,OR51E2,Q9H255,musk ketone,6669,,CC1=C(C(=C(C(=C1[N+](=O)[O-])C(C)(C)C)[N+](=O)[O-])C)C(=O)C,0,0,,100,uM
+homo sapiens,OR51E2,Q9H255,(S)-2-Phenylbutanoic acid,785329,,CC[C@@H](C1=CC=CC=C1)C(=O)O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,(+)-Camphor,159055,,C[C@@]12CC[C@@H](C1(C)C)CC2=O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,(+)-Carvone,16724,,CC1=CC[C@@H](CC1=O)C(=C)C,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,(+)-Dihydrocarvone,24473,,CC1CCC(CC1=O)C(=C)C,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,(+)-Fenchone,1201521,,C[C@]12CC[C@H](C1)C(C2=O)(C)C,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,(R)-(-)-2-Phenylbutyric acid,785330,,CC[C@H](C1=CC=CC=C1)C(=O)O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,(-)-Camphor,444294,,C[C@]12CC[C@H](C1(C)C)CC2=O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,(-)-Carvone,439570,,CC1=CC[C@H](CC1=O)C(=C)C,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,(-)-Fenchone,82229,,C[C@@]12CC[C@@H](C1)C(C2=O)(C)C,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,(-)-beta-Citronellol,7793,,C[C@@H](CCC=C(C)C)CCO,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,1-Decanol,8174,,CCCCCCCCCCO,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,1-Heptanol,8129,,CCCCCCCO,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,1-Hexanol,8103,,CCCCCCO,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,1-Nonanol,8914,,CCCCCCCCCO,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,1-Octanol,957,,CCCCCCCCO,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,1-Pentanol,6276,,CCCCCO,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,2-Coumaranone,68382,,C1C2=CC=CC=C2OC1=O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,2-Heptanone,8051,,CCCCCC(=O)C,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,2-Hexanone,11583,,CCCCC(=O)C,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,2-Nonanone,13187,,CCCCCCCC(=O)C,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,2-Octanone,8093,,CCCCCCC(=O)C,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,2-Pentanone,7895,,CCCC(=O)C,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,"2,3-Hexanedione",19707,,CCCC(=O)C(=O)C,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,3-Heptanone,7802,,CCCCC(=O)CC,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,3-Octanone,246728,,CCCCCC(=O)CC,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,"3,4-Hexanedione",62539,,CCC(=O)C(=O)CC,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,4-Chromanone,68110,,C1COC2=CC=CC=C2C1=O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,4-Hydroxycoumarin,54682930,,C1=CC=C2C(=C1)C(=CC(=O)O2)O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,Acetophenone,7410,,CC(=O)C1=CC=CC=C1,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,Allyl benzene,9309,,C=CCC1=CC=CC=C1,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,Allyl heptanoate,8878,,CCCCCCC(=O)OCC=C,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,Allyl phenylacetate,15717,,C=CCOC(=O)CC1=CC=CC=C1,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,Amyl hexanoate,10886,,CCCCCC(=O)OCCCCC,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,Benzene,241,,C1=CC=CC=C1,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,Benzophenone,3102,,C1=CC=C(C=C1)C(=O)C2=CC=CC=C2,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,Benzyl acetate,8785,,CC(=O)OCC1=CC=CC=C1,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,Butyl butyryllactate,24114,,CCCCOC(=O)C(C)OC(=O)CCC,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,Butyl formate,11614,,CCCCOC=O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,Coumarin,323,,C1=CC=C2C(=C1)C=CC(=O)O2,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,Cyclohexanone,7967,,C1CCC(=O)CC1,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,Decanal,8175,,CCCCCCCCCC=O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,Decanoic acid,2969,,CCCCCCCCCC(=O)O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,Dihydrojasmone,62378,,CCCCCC1=C(CCC1=O)C,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,Ethyl isobutyrate,7342,,CCOC(=O)C(C)C,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,Geraniol,637566,,CC(=CCC/C(=C/CO)/C)C,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,Heptanal,8130,,CCCCCCC=O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,Heptanoic acid,8094,,CCCCCCC(=O)O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,Hexanal,6184,,CCCCCC=O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,Hexanoic acid,8892,,CCCCCC(=O)O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,Hexyl acetate,8908,,CCCCCCOC(=O)C,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,Lyral,91604,,CC(C)(CCCC1=CCC(CC1)C=O)O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,Nonanal,31289,,CCCCCCCCC=O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,Nonanethiol,15077,,CCCCCCCCCS,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,Nonanoic acid,8158,,CCCCCCCCC(=O)O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,Octanal,454,,CCCCCCCC=O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,Octanethiol,8144,,CCCCCCCCS,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,Octanoic acid,379,,CCCCCCCC(=O)O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,Pentanoic acid,7991,,CCCCC(=O)O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,Phenyl acetate,31229,,CC(=O)OC1=CC=CC=C1,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,Prenyl acetate,14489,,CC(=CCOC(=O)C)C,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,Propionic acid,1032,,CCC(=O)O,1,108.8930093,uM,3000,uM
+homo sapiens,OR51E2,Q9H255,Vanillic acid,8468,,COC1=C(C=CC(=C1)C(=O)O)O,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,gamma-Caprolactone,12756,,CCC1CCC(=O)O1,0,n.d,n.d,3000,uM
+homo sapiens,OR51E2,Q9H255,Diacetyl,650,,CC(=O)C(=O)C,0,,,4,uM
+homo sapiens,OR51E2,Q9H255,butanoic acid,264,,CCCC(=O)O,0,,,41,uM
+homo sapiens,OR51E2,Q9H255,Delta-decalactone,12810,,CCCCCC1CCCC(=O)O1,0,,,29,uM
+homo sapiens,OR51E2,Q9H255,Androstenone,6852393,,C[C@]12CC[C@H]3[C@H]([C@@H]1CC=C2)CC[C@@H]4[C@@]3(CCC(=O)C4)C,0,-0.459,,30,uM
+homo sapiens,OR51E2,Q9H255,(Z)-4-undecenal,5362881,,CCCCCC/C=C\CCC=O,0,,,100,uM
+homo sapiens,OR51E2,Q9H255,"3-Methyl-2,4-nonanedione",529481,,CCCCCC(=O)C(C)C(=O)C,0,,,30,uM
+homo sapiens,OR51E2,Q9H255,"3-Methyl-2,4-nonanedione",529481,,CCCCCC(=O)C(C)C(=O)C,0,,,300,uM
+homo sapiens,OR51E2,Q9H255,(e)-8-Cyclohexadecen-1-one,5362739,,C1CCC/C=C\CCCCCCC(=O)CCC1,0,,,100,uM
+homo sapiens,OR51E2,Q9H255,(5E)-3-methylcyclopentadec-5-en-1-one,9834606,,CC1C/C=C/CCCCCCCCCC(=O)C1,0,,,100,uM
+homo sapiens,OR51E2,Q9H255,Ambrettolide,5365703,,C1CCCCOC(=O)CCCCC/C=C\CCC1,0,,,100,uM
+homo sapiens,OR51E2,Q9H255,Galaxolide,91497,,CC1COCC2=CC3=C(C=C12)C(C(C3(C)C)C)(C)C,0,,,100,uM
+homo sapiens,OR51E2,Q9H255,D-alanyl-d-alanine,5460362,923-16-0,C[C@H](C(=O)N[C@H](C)C(=O)O)N,1,-4.853871964,log(M),,
+homo sapiens,OR51E2,Q9H255,AFMK,171161,52450-38-1,CC(=O)NCCC(=O)C1=C(C=CC(=C1)OC)NC=O,1,-4.920818754,log(M),,
+homo sapiens,OR51E2,Q9H255,Gamma-CEHC,133098,178167-77-6,CC1=C(C=C2CCC(OC2=C1C)(C)CCC(=O)O)O,1,-8.193820026,log(M),,
+homo sapiens,OR51E2,Q9H255,Hydroxypyruvic acid,964,1113-60-6,C(C(=O)C(=O)O)O,1,-6.37675071,log(M),,
+homo sapiens,OR51E2,Q9H255,adenosine-2’-3’-c-phosphate,101812,0634-01-05,C1=NC(=C2C(=N1)N(C=N2)[C@H]3[C@H]4[C@@H]([C@H](O3)CO)OP(=O)(O4)O)N,1,-7.585026652,log(M),,
+homo sapiens,OR51E2,Q9H255,palmitic acid,985,57-10-3,CCCCCCCCCCCCCCCC(=O)O,1,-8.008773924,log(M),,
+homo sapiens,OR51E2,Q9H255,L-glyceric acid,6326776,28305-26-2,C([C@@H](C(=O)O)O)O,1,-8.721246399,log(M),,
+homo sapiens,OR51E2,Q9H255,19-OH AD,252379,510-64-5,C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CCC4=CC(=O)CC[C@]34CO,1,-9.823908741,log(M),,
+homo sapiens,OR51E2,Q9H255,Androstanedione,222865,846-46-8,C[C@]12CCC(=O)C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CCC4=O)C,1,-9.102372909,log(M),,
+homo sapiens,OR51E2,Q9H255,N-Acetylglutamic acid,70914,1188-37-0,CC(=O)N[C@@H](CCC(=O)O)C(=O)O,1,-9.638272164,log(M),,
+homo sapiens,OR51E2,Q9H255,Kojibiose,164939,,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@@H](C=O)[C@H]([C@@H]([C@@H](CO)O)O)O)O)O)O)O,1,-6,log(M),,
+homo sapiens,OR51E2,Q9H255,Bradykinin,439201,58-82-2,C1C[C@H](N(C1)C(=O)[C@@H]2CCCN2C(=O)[C@H](CCCN=C(N)N)N)C(=O)NCC(=O)N[C@@H](CC3=CC=CC=C3)C(=O)N[C@@H](CO)C(=O)N4CCC[C@H]4C(=O)N[C@@H](CC5=CC=CC=C5)C(=O)N[C@@H](CCCN=C(N)N)C(=O)O,1,-8.886056648,log(M),,
+homo sapiens,OR51E2,Q9H255,Imidazolone,70935,1192-34-3,CC1=CNC(=O)N1,1,-11.11918641,log(M),,
+homo sapiens,OR51E2,Q9H255,Pelargonidin,440832,0134-04-03,C1=CC(=CC=C1C2=[O+]C3=CC(=CC(=C3C=C2O)O)O)O,1,-9.37675071,log(M),,
+homo sapiens,OR51E2,Q9H255,Glycine,750,56-40-6,C(C(=O)O)N,1,-7.236572006,log(M),,
+homo sapiens,OR51E2,Q9H255,2-Ketoglutaric acid,51,328-50-7,C(CC(=O)O)C(=O)C(=O)O,1,-7.259637311,log(M),,
+homo sapiens,OR51E2,Q9H255,Urea,1176,57-13-6,C(=O)(N)N,1,-7.638272164,log(M),,
+homo sapiens,OR51E2,Q9H255,L-Histidinol,165271,4836-52-6,C1=C(NC=N1)C[C@@H](CO)N,1,-10.45593196,log(M),,
+homo sapiens,OR51E2,Q9H255,8-Hydroxyguanine,65154,5614-64-2,C12=C(NC(=NC1=O)N)NC(=O)N2,1,-12.35654732,log(M),,
+homo sapiens,OR51E2,Q9H255,2-Pyrrolidinone,12025,616-45-5,C1CC(=O)NC1,1,-8.721246399,log(M),,
+homo sapiens,OR51E2,Q9H255,Epitestosterone,10204,481-30-1,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@H]2O)CCC4=CC(=O)CC[C@]34C,1,-9.161150909,log(M),,
+homo sapiens,OR51E2,Q9H255,Estriol,5756,50-27-1,C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H]([C@@H]2O)O)CCC4=C3C=CC(=C4)O,1,-4.27572413,log(M),,
+homo sapiens,OR51E2,Q9H255,Tetrahydrocurcumin,124072,36062-04-01,COC1=C(C=CC(=C1)CCC(=O)CC(=O)CCC2=CC(=C(C=C2)O)OC)O,1,-6.244125144,log(M),,
+homo sapiens,OR51E2,Q9H255,Alpha-n-phenylacetyl-l-glutamine,92258,28047-15-6,C1=CC=C(C=C1)CC(=O)N[C@@H](CCC(=O)N)C(=O)O,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,Testosterone,6013,58-22-0,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=CC(=O)CC[C@]34C,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,Stearoylethanolamide,27902,111-57-9,CCCCCCCCCCCCCCCCCC(=O)NCCO,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,Androstenedione,6128,23139,C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CCC4=O)C,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,Palmitoylethanolamide,4671,544-31-0,CCCCCCCCCCCCCCCC(=O)NCCO,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,Pentadecanoic acid,13849,1002-84-2,CCCCCCCCCCCCCCC(=O)O,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,D-maltose,6255,69-79-4,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@@H]2[C@H](O[C@H]([C@@H]([C@H]2O)O)O)CO)O)O)O)O,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,Orotidine,92751,314-50-1,C1=C(N(C(=O)NC1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O)C(=O)O,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,Acetaminophen,1983,5190374,CC(=O)NC1=CC=C(C=C1)O,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,Arachidonic acid,444899,506-32-1,CCCCC/C=C\C/C=C\C/C=C\C/C=C\CCCC(=O)O,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,"12,13-Epome",5356421,,CCCCCC1C(O1)C/C=C\CCCCCCCC(=O)O,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,13-cis-Retinoic acid,5282379,4759-48-2,CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C\C(=O)O)/C)/C,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,N-acetylvanilalanine,12681285,,CC(=O)NC(CC1=CC(=C(C=C1)O)OC)C(=O)O,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,19-Nortestosterone,9904,434-22-0,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=CC(=O)CC[C@H]34,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,N1-Acetylspermidine,496,14278-49-0,CC(=O)NCCCNCCCCN,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,Glyceraldehyde,751,56-82-6,C(C(C=O)O)O,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,Homo-l-arginine,9085,156-86-5,C(CCN=C(N)N)C[C@@H](C(=O)O)N,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,N8-Acetylspermidine,123689,34450-15-2,CC(=O)NCCCCNCCCN,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,4-Acetamidobutanoic acid,18189,3025-96-5,CC(=O)NCCCC(=O)O,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,"2,3-Diaminopropionic acid",364,4033-39-0,C(C(C(=O)O)N)N,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,Asymmetric dimethylarginine,123831,30315-93-6,CN(C)C(=NCCC[C@@H](C(=O)O)N)N,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,Ureidopropionic acid,111,464-88-4,C(CNC(=O)N)C(=O)O,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,Ureidoisobutyric acid,160663,2905-86-4,CC(CNC(=O)N)C(=O)O,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,N-Acetylputrescine,122356,18233-70-0,CC(=O)NCCCCN,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,Lipoamide,863,940-69-2,C1CSSC1CCCCC(=O)N,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,Histamine,774,51-45-6,C1=C(NC=N1)CCN,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,Hydroxyacetone,8299,,CC(=O)CO,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,Normetanephrine,1237,97-31-4,COC1=C(C=CC(=C1)C(CN)O)O,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,acetic acid,176,,CC(=O)O,1,562.3413252,uM,,
+homo sapiens,OR51E2,Q9H255,propanoic acid,1032,,CCC(=O)O,1,363.0780548,uM,,
+homo sapiens,OR51E2,Q9H255,butanoic acid,264,,CCCC(=O)O,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,isovaleric acid,10430,,CC(C)CC(=O)O,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,pentanoic acid,7991,,CCCCC(=O)O,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,hexanoic acid,8892,,CCCCCC(=O)O,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,2-methylhexanoic acid,20653,,CCCCC(C)C(=O)O,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,3-methylhexanoic acid,95315,,CCCC(C)CC(=O)O,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,(E)-3-methyl-2-hexenoic acid,6443739,,CCC/C(=C/C(=O)O)/C,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,3-hydroxy-3-methylhexanoic acid,16666688,,CCCC(C)(CC(=O)O)O,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,heptanoic acid,8094,,CCCCCCC(=O)O,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,2-methylheptanoic acid,14475,,CCCCCC(C)C(=O)O,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,octanoic acid,379,,CCCCCCCC(=O)O,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,4-ethyloctanoic acid,61840,,CCCCC(CC)CCC(=O)O,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,nonanoic acid,8158,,CCCCCCCCC(=O)O,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,decanoic acid,2969,,CCCCCCCCCC(=O)O,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,undecanoic acid,8180,,CCCCCCCCCCC(=O)O,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,benzoic acid,243,,C1=CC=C(C=C1)C(=O)O,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,phenylacetic acid,999,,C1=CC=C(C=C1)CC(=O)O,0,n.d,n.d,,
+homo sapiens,OR51E2,Q9H255,L-Carvone,439570,6485-40-1,CC1=CC[C@H](CC1=O)C(=C)C,0,1.12916993,Fold,300,uM
+homo sapiens,OR51E2,Q9H255,D-Carvone,16724,2244-16-8,CC1=CC[C@@H](CC1=O)C(=C)C,0,1.638291244,Fold,300,uM
+homo sapiens,OR51E2,Q9H255,cis-3-hexanol,5281167,928-96-1,CC/C=C\CCO,0,1.278122446,Fold,1000,uM
+homo sapiens,OR51E2,Q9H255,anis aldehyde,31244,0123-11-5,COC1=CC=C(C=C1)C=O,0,2.876843898,Fold,3000,uM
+homo sapiens,OR51E2,Q9H255,methyl beta-naphthyl ketone,7122,93-08-3,CC(=O)C1=CC2=CC=CC=C2C=C1,0,1.435802682,Fold,100,uM
+homo sapiens,OR51E2,Q9H255,linalool,6549,78-70-6,CC(=CCCC(C)(C=C)O)C,0,0.9386875564,Fold,300,uM
+homo sapiens,OR51E2,Q9H255,"Butter aroma recombinate (diacetyl, butanoic acid, delta-decalactone)",,,CC(=O)C(=O)C CCCC(=O)O CCCCCC1CCCC(=O)O1,0,,,4 41 29,uM
+homo sapiens,OR51E2,Q9H255,cis-3-hexenol trans-2-hexenal,,,CC/C=C\CCO CCC/C=C/C=O,0,,,50 50,uM
+homo sapiens,OR51E2,Q9H255,MCMP,,,CC(=O)C1=CC2=CC=CC=C2C=C1 CC1=CC[C@H](CC1=O)C(=C)C C/C=C/C1=CC(=C(C=C1)OC)OC CC(=O)OCCC1=CC=CC=C1,0,,,75 75 75 75,uM
+homo sapiens,OR51E2,Q9H255,L-Carvone d-Carvone cis-3-hexenol anis aldehyde methyl-beta-naphthyl ketone linalool,,,CC1=CC[C@H](CC1=O)C(=C)C CC1=CC[C@@H](CC1=O)C(=C)C CC/C=C\CCO COC1=CC=C(C=C1)C=O CC(=O)C1=CC2=CC=CC=C2C=C1 CC(=CCCC(C)(C=C)O)C,0,2.708058086,Fold,100 300 100 100 100 300,uM
+homo sapiens,OR51E2,Q9H255,L-Carvone d-Carvone cis-3-hexenol anis aldehyde methyl-beta-naphthyl ketone linalool,,,CC1=CC[C@H](CC1=O)C(=C)C CC1=CC[C@@H](CC1=O)C(=C)C CC/C=C\CCO COC1=CC=C(C=C1)C=O CC(=O)C1=CC2=CC=CC=C2C=C1 CC(=CCCC(C)(C=C)O)C,0,0.8116631276,Fold,100 300 100 100 100 300,uM
+homo sapiens,OR51E2,Q9H255,L-Carvone d-Carvone cis-3-hexenol anis aldehyde methyl-beta-naphthyl ketone linalool,,,CC1=CC[C@H](CC1=O)C(=C)C CC1=CC[C@@H](CC1=O)C(=C)C CC/C=C\CCO COC1=CC=C(C=C1)C=O CC(=O)C1=CC2=CC=CC=C2C=C1 CC(=CCCC(C)(C=C)O)C,0,1.554875487,Fold,100 300 100 100 100 300,uM
+homo sapiens,OR51E2,Q9H255,L-Carvone d-Carvone cis-3-hexenol anis aldehyde methyl-beta-naphthyl ketone linalool,,,CC1=CC[C@H](CC1=O)C(=C)C CC1=CC[C@@H](CC1=O)C(=C)C CC/C=C\CCO COC1=CC=C(C=C1)C=O CC(=O)C1=CC2=CC=CC=C2C=C1 CC(=CCCC(C)(C=C)O)C,0,3.124142904,Fold,100 300 100 100 100 300,uM
+homo sapiens,OR51G2,Q8NGK0,n-amyl acetate,12348,628-63-7,CCCCCOC(=O)C,0,-0.2431985222,,100,uM
+homo sapiens,OR51G2,Q8NGK0,Cyclohexanone,7967,108-94-1,C1CCC(=O)CC1,0,-0.237195128,,100,uM
+homo sapiens,OR51G2,Q8NGK0,2-heptanone,8051,110-43-0,CCCCCC(=O)C,0,-0.02253905514,,100,uM
+homo sapiens,OR51G2,Q8NGK0,acetophenone,7410,98-86-2,CC(=O)C1=CC=CC=C1,0,-0.0141048904,,100,uM
+homo sapiens,OR51G2,Q8NGK0,"2,4,5-trimethyl-2,5-dihydro-1,3-thiazole",181287,60633-24-1,CC1C(=NC(S1)C)C,0,-0.1071741108,,100,uM
+homo sapiens,OR51G2,Q8NGK0,(-)-menthol,16666,2216-51-5,C[C@@H]1CC[C@H]([C@@H](C1)O)C(C)C,0,-0.01624007949,,100,uM
+homo sapiens,OR51G2,Q8NGK0,(+)-menthol,165675,15356-60-2,C[C@H]1CC[C@@H]([C@H](C1)O)C(C)C,0,-0.002885244231,,100,uM
+homo sapiens,OR51G2,Q8NGK0,1-butanol,263,71-36-3,CCCCO,0,0.02268170528,,100,uM
+homo sapiens,OR51G2,Q8NGK0,2-butanone,6569,78-93-3,CCC(=O)C,0,-0.03032544683,,100,uM
+homo sapiens,OR51G2,Q8NGK0,2-decenal,5283345,3913-71-1,CCCCCCC/C=C/C=O,0,-0.008212463785,,100,uM
+homo sapiens,OR51G2,Q8NGK0,2-ethylfenchol,106997,18368-91-7,CCC1(C(C2CCC1(C2)C)(C)C)O,0,0.05472717692,,100,uM
+homo sapiens,OR51G2,Q8NGK0,2-methoxy-4-methylphenol,7144,93-51-6,CC1=CC(=C(C=C1)O)OC,0,-0.02132696686,,100,uM
+homo sapiens,OR51G2,Q8NGK0,4-methylvaleric acid,12587,0646-07-01,CC(C)CCC(=O)O,0,0.0009025867466,,100,uM
+homo sapiens,OR51G2,Q8NGK0,androstenone,6852393,18339-16-7,C[C@]12CC[C@H]3[C@H]([C@@H]1CC=C2)CC[C@@H]4[C@@]3(CCC(=O)C4)C,1,0.8402284375,,100,uM
+homo sapiens,OR51G2,Q8NGK0,bourgeonal,64832,18127-01-0,CC(C)(C)C1=CC=C(C=C1)CCC=O,0,-0.1738396355,,100,uM
+homo sapiens,OR51G2,Q8NGK0,butyl acetate,31272,123-86-4,CCCCOC(=O)C,0,-0.0537642267,,100,uM
+homo sapiens,OR51G2,Q8NGK0,butyric acid,264,107-92-6,CCCC(=O)O,0,-0.07627978748,,100,uM
+homo sapiens,OR51G2,Q8NGK0,caproic acid,8892,142-62-1,CCCCCC(=O)O,0,-0.09844192122,,100,uM
+homo sapiens,OR51G2,Q8NGK0,cineole,2758,470-82-6,CC1(C2CCC(O1)(CC2)C)C,0,-0.08301655159,,100,uM
+homo sapiens,OR51G2,Q8NGK0,cis-3-hexen-1-ol,5281167,928-96-1,CC/C=C\CCO,0,-0.0940131306,,100,uM
+homo sapiens,OR51G2,Q8NGK0,citral,638011,5392-40-5,CC(=CCC/C(=C/C=O)/C)C,0,-0.0679514145,,100,uM
+homo sapiens,OR51G2,Q8NGK0,decyl aldehyde,8175,112-31-2,CCCCCCCCCC=O,0,-0.00136846976,,100,uM
+homo sapiens,OR51G2,Q8NGK0,diacetyl,650,0431-03-08,CC(=O)C(=O)C,0,0.0164459303,,100,uM
+homo sapiens,OR51G2,Q8NGK0,diallyl sulfide,11617,592-88-1,C=CCSCC=C,0,0.01995131349,,100,uM
+homo sapiens,OR51G2,Q8NGK0,diphenyl ether,7583,101-84-8,C1=CC=C(C=C1)OC2=CC=CC=C2,0,-0.01650170949,,100,uM
+homo sapiens,OR51G2,Q8NGK0,ethylene brassylate,61014,105-95-3,C1CCCCCC(=O)OCCOC(=O)CCCCC1,0,0.1777983478,,100,uM
+homo sapiens,OR51G2,Q8NGK0,eugenol acetate,7136,93-28-7,CC(=O)OC1=C(C=C(C=C1)CC=C)OC,0,0.1381097679,,100,uM
+homo sapiens,OR51G2,Q8NGK0,eugenol methyl ether,7127,93-15-2,COC1=C(C=C(C=C1)CC=C)OC,0,0.0372275693,,100,uM
+homo sapiens,OR51G2,Q8NGK0,(-)-Fenchone,82229,7787-20-4,C[C@@]12CC[C@@H](C1)C(C2=O)(C)C,0,-0.03724405596,,100,uM
+homo sapiens,OR51G2,Q8NGK0,galaxolide,91497,1222-05-05,CC1COCC2=CC3=C(C=C12)C(C(C3(C)C)C)(C)C,0,-0.09828095343,,100,uM
+homo sapiens,OR51G2,Q8NGK0,androstadienone,92979,4075-07-04,C[C@]12CC[C@H]3[C@H]([C@@H]1CC=C2)CCC4=CC(=O)CC[C@]34C,0,0.05845960008,,100,uM
+homo sapiens,OR51G2,Q8NGK0,geranyl acetate,1549026,105-87-3,CC(=CCC/C(=C/COC(=O)C)/C)C,0,-0.01628333596,,100,uM
+homo sapiens,OR51G2,Q8NGK0,guaiacol,460,90-05-1,COC1=CC=CC=C1O,0,0.08015777728,,100,uM
+homo sapiens,OR51G2,Q8NGK0,heptyl acetate,8159,0112-06-01,CCCCCCCOC(=O)C,0,-0.0992779419,,100,uM
+homo sapiens,OR51G2,Q8NGK0,hexyl butyrate,17525,2639-63-6,CCCCCCOC(=O)CCC,0,-0.1849016578,,100,uM
+homo sapiens,OR51G2,Q8NGK0,isobornyl acetate,247573,0125-12-2,CC(=O)O[C@H]1C[C@H]2CC[C@]1(C2(C)C)C,0,0.1358790314,,100,uM
+homo sapiens,OR51G2,Q8NGK0,isobutyraldehyde,6561,78-84-2,CC(C)C=O,0,0.07606124268,,100,uM
+homo sapiens,OR51G2,Q8NGK0,isobutyric acid,6590,79-31-2,CC(C)C(=O)O,0,0.0183044504,,100,uM
+homo sapiens,OR51G2,Q8NGK0,isoeugenol,853433,97-54-1,C/C=C/C1=CC(=C(C=C1)O)OC,0,-0.111802509,,100,uM
+homo sapiens,OR51G2,Q8NGK0,isovaleric acid,10430,503-74-2,CC(C)CC(=O)O,0,0.04647385068,,100,uM
+homo sapiens,OR51G2,Q8NGK0,linalool,6549,78-70-6,CC(=CCCC(C)(C=C)O)C,0,-0.01299937545,,100,uM
+homo sapiens,OR51G2,Q8NGK0,methanethiol,878,74-93-1,CS,0,-0.02709426754,,100,uM
+homo sapiens,OR51G2,Q8NGK0,methyl salicylate,4133,119-36-8,COC(=O)C1=CC=CC=C1O,0,-0.0394592159,,100,uM
+homo sapiens,OR51G2,Q8NGK0,octyl acetate,8164,112-14-1,CCCCCCCCOC(=O)C,0,-0.01059282825,,100,uM
+homo sapiens,OR51G2,Q8NGK0,octyl aldehyde,454,124-13-0,CCCCCCCC=O,0,0.01536930395,,100,uM
+homo sapiens,OR51G2,Q8NGK0,pentadecalactone,235414,0106-02-05,C1CCCCCCCOC(=O)CCCCCC1,0,-0.0972921963,,100,uM
+homo sapiens,OR51G2,Q8NGK0,phenyl acetaldehyde,998,122-78-1,C1=CC=C(C=C1)CC=O,0,-0.06129102116,,100,uM
+homo sapiens,OR51G2,Q8NGK0,pyrazine,9261,290-37-9,C1=CN=CC=N1,0,-0.05010464765,,100,uM
+homo sapiens,OR51G2,Q8NGK0,terpineol,17100,98-55-5,CC1=CCC(CC1)C(C)(C)O,0,-0.04003833026,,100,uM
+homo sapiens,OR51G2,Q8NGK0,terpinyl acetate,111037,80-26-2,CC1=CCC(CC1)C(C)(C)OC(=O)C,0,0.006350821128,,100,uM
+homo sapiens,OR51G2,Q8NGK0,undecanal,8186,112-44-7,CCCCCCCCCCC=O,0,-0.0489041437,,100,uM
+homo sapiens,OR51G2,Q8NGK0,vanillin,1183,121-33-5,COC1=C(C=CC(=C1)C=O)O,0,-0.04886034472,,100,uM
+homo sapiens,OR51G2,Q8NGK0,methyl benzoate,7150,93-58-3,COC(=O)C1=CC=CC=C1,0,-0.1529943046,,100,uM
+homo sapiens,OR51G2,Q8NGK0,"2,4-DNT",8461,121-14-2,CC1=C(C=C(C=C1)[N+](=O)[O-])[N+](=O)[O-],0,-0.2023645217,,100,uM
+homo sapiens,OR51G2,Q8NGK0,terpinyl acetate,111037,80-26-2,CC1=CCC(CC1)C(C)(C)OC(=O)C,0,0.090999,,0,uM
+homo sapiens,OR51G2,Q8NGK0,terpinyl acetate,111037,80-26-2,CC1=CCC(CC1)C(C)(C)OC(=O)C,0,0.06983466667,,1,uM
+homo sapiens,OR51G2,Q8NGK0,terpinyl acetate,111037,80-26-2,CC1=CCC(CC1)C(C)(C)OC(=O)C,0,0.059624,,10,uM
+homo sapiens,OR51G2,Q8NGK0,terpinyl acetate,111037,80-26-2,CC1=CCC(CC1)C(C)(C)OC(=O)C,0,0.076079,,100,uM
+homo sapiens,OR51G2,Q8NGK0,3-Mercaptohexyl acetate,518810,,CCCC(CCOC(=O)C)S,0,,,100,uM
+homo sapiens,OR51G2,Q8NGK0,Furaneol,19309,,CC1C(=O)C(=C(O1)C)O,0,,,1000,uM
+homo sapiens,OR51G2,Q8NGK0,Sotolone,62835,,CC1C(=C(C(=O)O1)O)C,0,,,1000,uM
+homo sapiens,OR51G2,Q8NGK0,homofuraneol,33931,,CCC1C(=O)C(=C(O1)C)O,0,,,1000,uM
+homo sapiens,OR51G2,Q8NGK0,Abhexone,61199,,CCC1C(=C(C(=O)O1)O)C,0,,,1000,uM
+homo sapiens,OR51G2,Q8NGK0,Allyl Phenyl acetate,15717,1746-13-0,C=CCOC(=O)CC1=CC=CC=C1,0,,,100,uM
+homo sapiens,OR51G2,Q8NGK0,"2,3,5-Trimethylpyrazine",26808,14667-55-1,CC1=CN=C(C(=N1)C)C,0,,,100,uM
+homo sapiens,OR51G2,Q8NGK0,"2,4,5-trimethyl-4,5-dihydrothiazole",263626,4145-93-1,CC1C(SC(=N1)C)C,0,,,100,uM
+homo sapiens,OR51G2,Q8NGK0,3-mercapto-2-methylpentan-1-ol,6430888,,CCC(C(C)CO)S,0,,,300,uM
+homo sapiens,OR51G2,Q8NGK0,2-methyl-3-sulfanylpropan-1-ol,529079,,CC(CO)CS,0,,,300,uM
+homo sapiens,OR51G2,Q8NGK0,2-Methyl-3-sulfanylheptan-1-ol,21997288,,CCCCC(C(C)CO)S,0,,,300,uM
+homo sapiens,OR51G2,Q8NGK0,3-Mercapto-2-methyloctan-1-ol,,,CCCCCC(C(C)CO)S,0,,,300,uM
+homo sapiens,OR51G2,Q8NGK0,(+/-)-Muscone,10947,541-91-3,CC1CCCCCCCCCCCCC(=O)C1,0,0,,100,uM
+homo sapiens,OR51G2,Q8NGK0,Musk xylol,62329,,CC1=C(C(=C(C(=C1[N+](=O)[O-])C(C)(C)C)[N+](=O)[O-])C)[N+](=O)[O-],0,0,,100,uM
+homo sapiens,OR51G2,Q8NGK0,musk ketone,6669,,CC1=C(C(=C(C(=C1[N+](=O)[O-])C(C)(C)C)[N+](=O)[O-])C)C(=O)C,0,0,,100,uM
+homo sapiens,OR51G2,Q8NGK0,Diacetyl,650,,CC(=O)C(=O)C,0,,,4,uM
+homo sapiens,OR51G2,Q8NGK0,butanoic acid,264,,CCCC(=O)O,0,,,41,uM
+homo sapiens,OR51G2,Q8NGK0,Delta-decalactone,12810,,CCCCCC1CCCC(=O)O1,0,,,29,uM
+homo sapiens,OR51G2,Q8NGK0,Androstenone,6852393,,C[C@]12CC[C@H]3[C@H]([C@@H]1CC=C2)CC[C@@H]4[C@@]3(CCC(=O)C4)C,0,0.019,,30,uM
+homo sapiens,OR51G2,Q8NGK0,(Z)-4-undecenal,5362881,,CCCCCC/C=C\CCC=O,0,,,100,uM
+homo sapiens,OR51G2,Q8NGK0,"3-Methyl-2,4-nonanedione",529481,,CCCCCC(=O)C(C)C(=O)C,0,,,30,uM
+homo sapiens,OR51G2,Q8NGK0,"3-Methyl-2,4-nonanedione",529481,,CCCCCC(=O)C(C)C(=O)C,0,,,300,uM
+homo sapiens,OR51G2,Q8NGK0,(e)-8-Cyclohexadecen-1-one,5362739,,C1CCC/C=C\CCCCCCC(=O)CCC1,0,,,100,uM
+homo sapiens,OR51G2,Q8NGK0,(5E)-3-methylcyclopentadec-5-en-1-one,9834606,,CC1C/C=C/CCCCCCCCCC(=O)C1,0,,,100,uM
+homo sapiens,OR51G2,Q8NGK0,Ambrettolide,5365703,,C1CCCCOC(=O)CCCCC/C=C\CCC1,0,,,100,uM
+homo sapiens,OR51G2,Q8NGK0,Galaxolide,91497,,CC1COCC2=CC3=C(C=C12)C(C(C3(C)C)C)(C)C,0,,,100,uM
+homo sapiens,OR51G2,Q8NGK0,L-Carvone,439570,6485-40-1,CC1=CC[C@H](CC1=O)C(=C)C,0,1.152401444,Fold,300,uM
+homo sapiens,OR51G2,Q8NGK0,D-Carvone,16724,2244-16-8,CC1=CC[C@@H](CC1=O)C(=C)C,0,0.7582905077,Fold,300,uM
+homo sapiens,OR51G2,Q8NGK0,cis-3-hexanol,5281167,928-96-1,CC/C=C\CCO,0,1.259674215,Fold,1000,uM
+homo sapiens,OR51G2,Q8NGK0,anis aldehyde,31244,0123-11-5,COC1=CC=C(C=C1)C=O,0,2.920571659,Fold,3000,uM
+homo sapiens,OR51G2,Q8NGK0,methyl beta-naphthyl ketone,7122,93-08-3,CC(=O)C1=CC2=CC=CC=C2C=C1,0,1.538803109,Fold,100,uM
+homo sapiens,OR51G2,Q8NGK0,linalool,6549,78-70-6,CC(=CCCC(C)(C=C)O)C,0,1.024001927,Fold,300,uM
+homo sapiens,OR51G2,Q8NGK0,"Butter aroma recombinate (diacetyl, butanoic acid, delta-decalactone)",,,CC(=O)C(=O)C CCCC(=O)O CCCCCC1CCCC(=O)O1,0,,,4 41 29,uM
+homo sapiens,OR51G2,Q8NGK0,cis-3-hexenol trans-2-hexenal,,,CC/C=C\CCO CCC/C=C/C=O,0,,,50 50,uM
+homo sapiens,OR51G2,Q8NGK0,MCMP,,,CC(=O)C1=CC2=CC=CC=C2C=C1 CC1=CC[C@H](CC1=O)C(=C)C C/C=C/C1=CC(=C(C=C1)OC)OC CC(=O)OCCC1=CC=CC=C1,0,,,75 75 75 75,uM
+homo sapiens,OR51G2,Q8NGK0,L-Carvone d-Carvone cis-3-hexenol anis aldehyde methyl-beta-naphthyl ketone linalool,,,CC1=CC[C@H](CC1=O)C(=C)C CC1=CC[C@@H](CC1=O)C(=C)C CC/C=C\CCO COC1=CC=C(C=C1)C=O CC(=O)C1=CC2=CC=CC=C2C=C1 CC(=CCCC(C)(C=C)O)C,0,2.318279034,Fold,100 300 100 100 100 300,uM
+homo sapiens,OR51G2,Q8NGK0,L-Carvone d-Carvone cis-3-hexenol anis aldehyde methyl-beta-naphthyl ketone linalool,,,CC1=CC[C@H](CC1=O)C(=C)C CC1=CC[C@@H](CC1=O)C(=C)C CC/C=C\CCO COC1=CC=C(C=C1)C=O CC(=O)C1=CC2=CC=CC=C2C=C1 CC(=CCCC(C)(C=C)O)C,0,1.466759617,Fold,100 300 100 100 100 300,uM
+homo sapiens,OR51G2,Q8NGK0,L-Carvone d-Carvone cis-3-hexenol anis aldehyde methyl-beta-naphthyl ketone linalool,,,CC1=CC[C@H](CC1=O)C(=C)C CC1=CC[C@@H](CC1=O)C(=C)C CC/C=C\CCO COC1=CC=C(C=C1)C=O CC(=O)C1=CC2=CC=CC=C2C=C1 CC(=CCCC(C)(C=C)O)C,0,2.694853876,Fold,100 300 100 100 100 300,uM
+homo sapiens,OR51G2,Q8NGK0,L-Carvone d-Carvone cis-3-hexenol anis aldehyde methyl-beta-naphthyl ketone linalool,,,CC1=CC[C@H](CC1=O)C(=C)C CC1=CC[C@@H](CC1=O)C(=C)C CC/C=C\CCO COC1=CC=C(C=C1)C=O CC(=O)C1=CC2=CC=CC=C2C=C1 CC(=CCCC(C)(C=C)O)C,0,0.5674303637,Fold,100 300 100 100 100 300,uM
