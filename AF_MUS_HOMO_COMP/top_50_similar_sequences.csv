@@ -1,0 +1,52 @@
+PDB_ID,Description,E-Value,Score,Identity,Length
+8F76,"pdb|8F76|A Chain A, Olfactory receptor 51E2 [Homo sapiens]",0.0,1667.0,319,330
+8UXV,"pdb|8UXV|A Chain A, consOR51 [synthetic construct]",4.46323e-129,955.0,181,323
+8HTI,"pdb|8HTI|R Chain R, Consensus Olfactory Receptor OR52c [Homo sapiens]",4.31079e-125,929.0,166,323
+8J46,"pdb|8J46|A Chain A, Olfactory receptor OR52c,Soluble cytochrome b562 [synthetic construct] >pdb|8W77|A Chain A, Human Consensus Olfactory Receptor OR52c in apo state, receptor only,Soluble cytochrome b562 [synthetic construct]",7.83146e-88,693.0,122,440
+8J46,"pdb|8J46|A Chain A, Olfactory receptor OR52c,Soluble cytochrome b562 [synthetic construct] >pdb|8W77|A Chain A, Human Consensus Olfactory Receptor OR52c in apo state, receptor only,Soluble cytochrome b562 [synthetic construct]",5.38467e-19,218.0,40,440
+8UXY,"pdb|8UXY|A Chain A, consOR1 [synthetic construct]",3.4207e-51,438.0,102,321
+8UY0,"pdb|8UY0|A Chain A, consOR2 [synthetic construct]",1.60625e-38,352.0,87,321
+8UYQ,"pdb|8UYQ|A Chain A, consOR4 [synthetic construct]",1.20642e-37,346.0,95,321
+8IOC,"pdb|8IOC|R Chain R, HA signal peptide,Melanocortin receptor 3,LgBiT subunit [synthetic construct]",8.68501e-08,131.0,37,511
+8INR,"pdb|8INR|R Chain R, HA signal peptide,Melanocortin receptor 5,LgBiT subunit [synthetic construct] >pdb|8IOD|R Chain R, HA signal peptide,Melanocortin receptor 5,LgBiT subunit [synthetic construct]",4.81329e-07,125.0,36,513
+7F4D,"pdb|7F4D|R Chain R, melanocortin-1 receptor [Homo sapiens] >pdb|7F4F|R Chain R, Melanocortin-1 receptor [Homo sapiens] >pdb|7F4H|R Chain R, Melanocortin-1 receptor [Homo sapiens] >pdb|7F4I|R Chain R, Melanocortin-1 receptor [Homo sapiens]",8.17464e-07,123.0,40,621
+7F53,"pdb|7F53|R Chain R, Melanocortin receptor 4 [Homo sapiens] >pdb|7F54|R Chain R, Melanocortin receptor 4 [Homo sapiens] >pdb|7F55|R Chain R, Melanocortin receptor 4 [Homo sapiens] >pdb|7F58|R Chain R, Melanocortin receptor 4 [Homo sapiens]",2.85333e-06,119.0,31,507
+8HDO,"pdb|8HDO|R Chain R, Adenosine A2b receptor [Homo sapiens] >pdb|8HDP|R Chain R, Adenosine A2b receptor [Homo sapiens]",4.4945e-06,116.0,40,332
+8QJ2,"pdb|8QJ2|A Chain A, Soluble cytochrome b562,Melanocortin receptor 4,Red fluorescent protein drFP583 [synthetic construct]",4.74966e-06,117.0,31,729
+7PIU,"pdb|7PIU|R Chain R, Melanocortin receptor 4 [Homo sapiens] >pdb|7PIV|R Chain R, Melanocortin receptor 4 [Homo sapiens]",4.75404e-06,116.0,31,346
+7AUE,"pdb|7AUE|R Chain R, Melanocortin receptor 4 [Homo sapiens]",5.54527e-06,115.0,31,350
+7XY6,"pdb|7XY6|R Chain R, Soluble cytochrome b562,Adenosine receptor A2b,LgBiT [synthetic construct] >pdb|7XY7|R Chain R, Soluble cytochrome b562,Adenosine receptor A2b,LgBiT [synthetic construct]",6.23455e-06,116.0,40,628
+6W25,"pdb|6W25|A Chain A, Melanocortin receptor 4,GlgA glycogen synthase,Melanocortin receptor 4 [synthetic construct] >pdb|8WKY|A Chain A, Melanocortin receptor 4 [Homo sapiens] >pdb|8WKZ|A Chain A, Melanocortin receptor 4 [Homo sapiens]",2.82225e-05,111.0,31,535
+8ZPS,"pdb|8ZPS|R Chain R, Prolactin-releasing peptide receptor [Homo sapiens] >pdb|8ZPT|R Chain R, Prolactin-releasing peptide receptor [Homo sapiens] >pdb|9K26|A Chain A, Prolactin-releasing peptide receptor [Homo sapiens] >pdb|9K27|A Chain A, Prolactin-releasing peptide receptor [Homo sapiens]",8.21153e-05,106.0,35,370
+9MQK,"pdb|9MQK|A Chain A, Kappa-Opioid Receptor [Homo sapiens] >pdb|9MQK|B Chain B, Kappa-Opioid Receptor [Homo sapiens] >pdb|9MQL|A Chain A, Kappa-Opioid Receptor [Homo sapiens]",0.000171298,104.0,40,388
+6ME8,"pdb|6ME8|A Chain A, Soluble cytochrome b562,Melatonin receptor type 1B,Rubredoxin [synthetic construct] >pdb|6ME8|B Chain B, Soluble cytochrome b562,Melatonin receptor type 1B,Rubredoxin [synthetic construct]",0.00022004,103.0,33,460
+8F7W,"pdb|8F7W|R Chain R, Kappa-type opioid receptor [Homo sapiens]",0.000499743,100.0,39,378
+8VVE,"pdb|8VVE|A Chain A, Kappa-type opioid receptor [Homo sapiens] >pdb|8VVF|A Chain A, Kappa-type opioid receptor [Homo sapiens] >pdb|8VVG|A Chain A, Kappa-type opioid receptor [Homo sapiens] >pdb|9D61|A Chain A, Kappa-type opioid receptor [Homo sapiens]",0.000505797,100.0,39,380
+8DZR,"pdb|8DZR|A Chain A, Kappa-type opioid receptor [Homo sapiens]",0.000720916,98.0,34,287
+6ME6,"pdb|6ME6|A Chain A, Soluble cytochrome b562,Melatonin receptor type 1B,Rubredoxin [synthetic construct] >pdb|6ME6|B Chain B, Soluble cytochrome b562,Melatonin receptor type 1B,Rubredoxin [synthetic construct] >pdb|6ME9|A Chain A, Soluble cytochrome b562,Melatonin receptor type 1B,Rubredoxin [synthetic construct] >pdb|6ME9|B Chain B, Soluble cytochrome b562,Melatonin receptor type 1B,Rubredoxin [synthetic construct]",0.000924017,98.0,32,460
+6ME7,"pdb|6ME7|A Chain A, Soluble cytochrome b562,Melatonin receptor type 1B,Rubredoxin [synthetic construct] >pdb|6ME7|B Chain B, Soluble cytochrome b562,Melatonin receptor type 1B,Rubredoxin [synthetic construct]",0.000948872,98.0,32,460
+4DJH,"pdb|4DJH|A Chain A, Kappa-type opioid receptor, Lysozyme [synthetic construct] >pdb|4DJH|B Chain B, Kappa-type opioid receptor, Lysozyme [synthetic construct]",0.000965954,98.0,39,480
+8DZP,"pdb|8DZP|A Chain A, Kappa-type opioid receptor [Homo sapiens] >pdb|8DZQ|A Chain A, Kappa-type opioid receptor [Homo sapiens] >pdb|8DZS|A Chain A, Kappa-type opioid receptor [Homo sapiens]",0.00114801,97.0,34,308
+6VI4,"pdb|6VI4|A Chain A, Kappa opioid receptor [Homo sapiens] >pdb|6VI4|B Chain B, Kappa opioid receptor [Homo sapiens]",0.00123015,96.0,34,307
+8FEG,"pdb|8FEG|B Chain B, Kappa-type opioid receptor [Homo sapiens]",0.00130148,96.0,34,308
+7YIT,"pdb|7YIT|A Chain A, Kappa-type opioid receptor [Homo sapiens]",0.00136271,96.0,34,305
+6B73,"pdb|6B73|A Chain A, Soluble cytochrome b562, kappa-type opioid receptor [synthetic construct] >pdb|6B73|B Chain B, Soluble cytochrome b562, kappa-type opioid receptor [synthetic construct]",0.00247068,94.0,34,418
+7Y1F,"pdb|7Y1F|R Chain R, Kappa-type opioid receptor [Homo sapiens]",0.00250949,95.0,34,460
+5DHG,"pdb|5DHG|A Chain A, Soluble cytochrome b562,Nociceptin receptor [synthetic construct] >pdb|5DHG|B Chain B, Soluble cytochrome b562,Nociceptin receptor [synthetic construct] >pdb|5DHH|A Chain A, Soluble cytochrome b562,Nociceptin receptor [synthetic construct] >pdb|5DHH|B Chain B, Soluble cytochrome b562,Nociceptin receptor [synthetic construct]",0.00269338,94.0,34,424
+4EA3,"pdb|4EA3|A Chain A, Fusion protein of Nociceptin receptor and cytochrome b562 [synthetic construct] >pdb|4EA3|B Chain B, Fusion protein of Nociceptin receptor and cytochrome b562 [synthetic construct]",0.00272187,94.0,34,434
+8F7X,"pdb|8F7X|R Chain R, Nociceptin receptor [Homo sapiens]",0.00310548,93.0,34,369
+8ZSV,"pdb|8ZSV|R Chain R, Soluble cytochrome b562,Trace amine-associated receptor 1 [synthetic construct]",0.00534109,92.0,34,488
+7LD3,"pdb|7LD3|R Chain R, Chimera protein of Muscarinic acetylcholine receptor M4 and Adenosine receptor A1 [Homo sapiens] >pdb|7LD4|R Chain R, Chimera protein of Muscarinic acetylcholine receptor M4 and Adenosine receptor A1 [Homo sapiens]",0.00537637,92.0,29,387
+6D9H,"pdb|6D9H|R Chain R, Chimera protein of Muscarinic acetylcholine receptor M4 and Adenosine receptor A1 [Homo sapiens]",0.00539029,92.0,29,389
+8JLJ,"pdb|8JLJ|R Chain R, Soluble cytochrome b562,Trace amine-associated receptor 1 [synthetic construct] >pdb|8JLK|R Chain R, Soluble cytochrome b562,Trace amine-associated receptor 1 [synthetic construct]",0.00563432,92.0,34,446
+8WC3,"pdb|8WC3|R Chain R, Trace amine-associated receptor 1 [Mus musculus] >pdb|8WC4|R Chain R, Trace amine-associated receptor 1 [Mus musculus] >pdb|8WC5|R Chain R, Trace amine-associated receptor 1 [Mus musculus] >pdb|8WC6|R Chain R, Trace amine-associated receptor 1 [Mus musculus] >pdb|8WC7|R Chain R, Trace amine-associated receptor 1 [Mus musculus] >pdb|8WC9|R Chain R, Trace amine-associated receptor 1 [Mus musculus] >pdb|8WCB|R Chain R, Trace amine-associated receptor 1 [Mus musculus] >pdb|8WCC|R Chain R, Trace amine-associated receptor 1 [Mus musculus]",0.00649519,91.0,34,332
+5UEN,"pdb|5UEN|A Chain A, Adenosine receptor A1,Soluble cytochrome b562,Adenosine receptor A1 [synthetic construct] >pdb|5UEN|B Chain B, Adenosine receptor A1,Soluble cytochrome b562,Adenosine receptor A1 [synthetic construct]",0.00971453,90.0,32,416
+8ITF,"pdb|8ITF|R Chain R, Trace amine-associated receptor 9 [Mus musculus] >pdb|8IW1|R Chain R, Trace amine-associated receptor 9 [Mus musculus] >pdb|8IW4|R Chain R, Trace amine-associated receptor 9 [Mus musculus] >pdb|8IW7|R Chain R, Trace amine-associated receptor 9 [Mus musculus] >pdb|8IW9|R Chain R, Trace amine-associated receptor 9 [Mus musculus] >pdb|8IWE|R Chain R, Trace amine-associated receptor 9 [Mus musculus] >pdb|8IWM|R Chain R, Trace amine-associated receptor 9 [Mus musculus]",0.0102397,89.0,26,348
+7X1T,"pdb|7X1T|A Chain A, Thyrotropin-releasing hormone receptor [Homo sapiens]",0.0154897,88.0,26,398
+7WKD,"pdb|7WKD|R Chain R, Thyrotropin-releasing hormone receptor [Homo sapiens] >pdb|7X1U|A Chain A, Thyrotropin-releasing hormone receptor [Homo sapiens] >pdb|7XW9|R Chain R, Thyrotropin-releasing hormone receptor [Homo sapiens]",0.0175312,87.0,26,398
+6ME3,"pdb|6ME3|A Chain A, chimera protein of Melatonin receptor type 1A and GlgA glycogen synthase [synthetic construct] >pdb|6ME4|A Chain A, chimera protein of Melatonin receptor type 1A and GlgA glycogen synthase [synthetic construct] >pdb|6ME5|A Chain A, chimera protein of Melatonin receptor type 1A and GlgA glycogen synthase [synthetic construct] >pdb|6PS8|A Chain A, Fusion protein of Melatonin receptor type 1A and GlgA glycogen synthase [synthetic construct]",0.0260915,86.0,27,503
+8EFB,"pdb|8EFB|R Chain R, Mu-type opioid receptor [Homo sapiens]",0.0281946,86.0,29,367
+8F7Q,"pdb|8F7Q|M Chain M, Mu-type opioid receptor [Homo sapiens] >pdb|8F7Q|R Chain R, Mu-type opioid receptor [Homo sapiens]",0.0327222,85.0,29,403
+5C1M,"pdb|5C1M|A Chain A, Mu-type opioid receptor [Mus musculus]",0.035556,84.0,26,296
+9JKQ,"pdb|9JKQ|R Chain R, Soluble cytochrome b562,Trace amine-associated receptor 1 [synthetic construct]",0.0362756,85.0,65,510
+8E0G,"pdb|8E0G|A Chain A, Mu-type opioid receptor [Mus musculus]",0.0371795,84.0,26,296
