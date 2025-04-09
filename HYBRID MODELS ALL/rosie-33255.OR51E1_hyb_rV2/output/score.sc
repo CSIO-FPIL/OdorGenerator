@@ -1,0 +1,3 @@
+SEQUENCE: 
+SCORE: total_score cart_bonded coordinate_constraint dslf_fa13    fa_atr    fa_dun   fa_elec fa_intra_rep fa_intra_sol_xover4              fa_rep              fa_sol hbond_bb_sc hbond_lr_bb    hbond_sc hbond_sr_bb lk_ball_wtd       omega     p_aa_pp rama_prepro         ref yhh_planarity description 
+SCORE:    -667.357     147.630                73.982    -0.948 -1850.668   290.829  -574.488        3.945              46.823             151.945            1120.254     -27.753     -13.972     -27.383    -229.251     -51.428       8.733     -42.489      53.471     252.054         1.356 input_0001

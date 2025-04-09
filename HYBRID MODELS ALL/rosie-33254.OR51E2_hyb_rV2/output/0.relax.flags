@@ -1,0 +1,8 @@
+-s input.pdb                       
+-constrain_relax_to_start_coords 
+-relax:ramp_constraints false    
+-relax:coord_constrain_sidechains 
+-relax:cartesian true                 
+-score:weights ref2015_cart           
+-optimization::default_max_cycles 200 
+
